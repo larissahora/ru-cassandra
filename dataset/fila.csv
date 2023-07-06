@@ -1,0 +1,1207 @@
+usuario,posicao,tipo_refeicao,tipo_estudante,horario_registro,horario_bandeja,data
+Bruno,1,Almoço,Regular,11:00:00,11:10:00,2023-05-30
+Carlos,2,Almoço,Regular,11:00:00,11:10:00,2023-05-30
+Julia,3,Almoço,Regular,11:00:00,11:10:00,2023-05-30
+Pedro,4,Almoço,Regular,11:00:00,11:10:00,2023-05-30
+Maria Antonia,5,Almoço,Regular,11:00:00,11:10:00,2023-05-30
+Marcos Vinicius,6,Almoço,Regular,11:10:00,11:20:00,2023-05-30
+João Vitor,7,Almoço,Regular,11:10:00,11:20:00,2023-05-30
+Lorena,8,Almoço,Regular,11:10:00,11:20:00,2023-05-30
+Victoria,9,Almoço,Regular,11:10:00,11:20:00,2023-05-30
+Sara,10,Almoço,Regular,11:20:00,11:30:00,2023-05-30
+Claudio,11,Almoço,Regular,11:20:00,11:30:00,2023-05-30
+Vitor,12,Almoço,Regular,11:20:00,11:30:00,2023-05-30
+Paulo,13,Almoço,Regular,11:20:00,11:30:00,2023-05-30
+Itana,14,Almoço,Regular,11:20:00,11:30:00,2023-05-30
+Davi,15,Almoço,Regular,11:30:00,11:40:00,2023-05-30
+Arthur,16,Almoço,Regular,11:30:00,11:40:00,2023-05-30
+Pedro,17,Almoço,Regular,11:30:00,11:40:00,2023-05-30
+Gabriel,18,Almoço,Regular,11:30:00,11:40:00,2023-05-30
+Alice,19,Almoço,Regular,11:30:00,11:40:00,2023-05-30
+Julia,20,Almoço,Regular,11:40:00,11:50:00,2023-05-30
+Isabella,21,Almoço,Regular,11:40:00,11:50:00,2023-05-30
+Miguel,22,Almoço,Regular,11:40:00,11:50:00,2023-05-30
+Sophia,23,Almoço,Regular,11:40:00,11:50:00,2023-05-30
+Gustavo,24,Almoço,Regular,11:40:00,11:50:00,2023-05-30
+Felipe,25,Almoço,Regular,11:50:00,12:00:00,2023-05-30
+Samuel,26,Almoço,Regular,11:50:00,12:00:00,2023-05-30
+João Pedro,27,Almoço,Regular,11:50:00,12:00:00,2023-05-30
+Yasmin,28,Almoço,Regular,11:50:00,12:00:00,2023-05-30
+Isabelly,29,Almoço,Regular,11:50:00,12:00:00,2023-05-30
+Sarah,30,Almoço,Regular,12:00:00,12:10:00,2023-05-30
+Caio,31,Almoço,Regular,12:00:00,12:10:00,2023-05-30
+Vinicius,32,Almoço,Regular,12:00:00,12:10:00,2023-05-30
+Luiza,33,Almoço,Regular,12:00:00,12:10:00,2023-05-30
+Valentina,34,Almoço,Regular,12:00:00,12:10:00,2023-05-30
+Giovanna,35,Almoço,Regular,12:10:00,12:20:00,2023-05-30
+Cauã,36,Almoço,Regular,12:10:00,12:20:00,2023-05-30
+Isaac,37,Almoço,Regular,12:10:00,12:20:00,2023-05-30
+Bernardo,38,Almoço,Regular,12:10:00,12:20:00,2023-05-30
+Lucas,39,Almoço,Regular,12:10:00,12:20:00,2023-05-30
+Matheus,40,Almoço,Regular,12:20:00,12:30:00,2023-05-30
+Rafael,41,Almoço,Regular,12:20:00,12:30:00,2023-05-30
+Heitor,42,Almoço,Regular,12:20:00,12:30:00,2023-05-30
+Enzo,43,Almoço,Regular,12:20:00,12:30:00,2023-05-30
+Laura,44,Almoço,Regular,12:20:00,12:30:00,2023-05-30
+Luiza,45,Almoço,Regular,12:30:00,12:40:00,2023-05-30
+Valentina,46,Almoço,Regular,12:30:00,12:40:00,2023-05-30
+Giovanna,47,Almoço,Regular,12:30:00,12:40:00,2023-05-30
+Maria Eduarda,48,Almoço,Regular,12:30:00,12:40:00,2023-05-30
+Helena,49,Almoço,Regular,12:30:00,12:40:00,2023-05-30
+Beatriz,50,Almoço,Regular,12:40:00,12:50:00,2023-05-30
+Maria Luiza,51,Almoço,Regular,12:40:00,12:50:00,2023-05-30
+Lara,52,Almoço,Regular,12:40:00,12:50:00,2023-05-30
+Daniel,53,Almoço,Regular,12:40:00,12:50:00,2023-05-30
+Vitor,54,Almoço,Regular,12:40:00,12:50:00,2023-05-30
+Leonardo,55,Almoço,Regular,12:50:00,13:00:00,2023-05-30
+Henrique,56,Almoço,Regular,12:50:00,13:00:00,2023-05-30
+Theo,57,Almoço,Regular,12:50:00,13:00:00,2023-05-30
+Murilo,58,Almoço,Regular,12:50:00,13:00:00,2023-05-30
+Heloísa,59,Almoço,Regular,12:50:00,13:00:00,2023-05-30
+Isadora,60,Almoço,Regular,13:00:00,13:10:00,2023-05-30
+Lívia,61,Almoço,Regular,13:00:00,13:10:00,2023-05-30
+Maria Clara,62,Almoço,Regular,13:00:00,13:10:00,2023-05-30
+Ana Clara,63,Almoço,Regular,13:00:00,13:10:00,2023-05-30
+Laurinne,64,Almoço,Regular,13:10:00,13:20:00,2023-05-30
+Victor,65,Almoço,Regular,13:10:00,13:20:00,2023-05-30
+Geraldo,66,Almoço,Regular,13:10:00,13:20:00,2023-05-30
+Luis ,67,Almoço,Regular,13:10:00,13:20:00,2023-05-30
+Amilton,68,Almoço,Regular,13:20:00,13:30:00,2023-05-30
+Deliane,69,Almoço,Regular,13:20:00,13:30:00,2023-05-30
+Vicente,70,Almoço,Regular,13:20:00,13:30:00,2023-05-30
+Roberta,71,Almoço,Regular,13:30:00,13:40:00,2023-05-30
+Wenderson,72,Almoço,Regular,13:30:00,13:40:00,2023-05-30
+Higor,73,Almoço,Regular,13:40:00,13:50:00,2023-05-30
+Quezia,74,Almoço,Regular,13:40:00,13:50:00,2023-05-30
+Ronaldo,75,Almoço,Regular,13:40:00,13:50:00,2023-05-30
+Miguel,1,Almoço,Bolsista,14:00:00,14:10:00,2023-05-30
+Arthur,2,Almoço,Bolsista,14:00:00,14:10:00,2023-05-30
+Gael,3,Almoço,Bolsista,14:00:00,14:10:00,2023-05-30
+Théo,4,Almoço,Bolsista,14:00:00,14:10:00,2023-05-30
+Heitor,5,Almoço,Bolsista,14:10:00,14:20:00,2023-05-30
+Ravi,6,Almoço,Bolsista,14:10:00,14:20:00,2023-05-30
+Davi,7,Almoço,Bolsista,14:10:00,14:20:00,2023-05-30
+Bernardo,8,Almoço,Bolsista,14:10:00,14:20:00,2023-05-30
+Noah,9,Almoço,Bolsista,14:20:00,14:30:00,2023-05-30
+Gabriel,10,Almoço,Bolsista,14:20:00,14:30:00,2023-05-30
+Helena,11,Almoço,Bolsista,14:20:00,14:30:00,2023-05-30
+Alice,12,Almoço,Bolsista,14:20:00,14:30:00,2023-05-30
+Laura,13,Almoço,Bolsista,14:30:00,14:40:00,2023-05-30
+Maria Alice,14,Almoço,Bolsista,14:30:00,14:40:00,2023-05-30
+Sophia,15,Almoço,Bolsista,14:30:00,14:40:00,2023-05-30
+Manuela,16,Almoço,Bolsista,14:30:00,14:40:00,2023-05-30
+Maitê,17,Almoço,Bolsista,14:40:00,14:50:00,2023-05-30
+Liz,18,Almoço,Bolsista,14:40:00,14:50:00,2023-05-30
+Cecília,19,Almoço,Bolsista,14:40:00,14:50:00,2023-05-30
+Isabella,20,Almoço,Bolsista,14:40:00,14:50:00,2023-05-30
+William,21,Almoço,Bolsista,14:50:00,15:00:00,2023-05-30
+Jorge,22,Almoço,Bolsista,14:50:00,15:00:00,2023-05-30
+Daniel,23,Almoço,Bolsista,14:50:00,15:00:00,2023-05-30
+Omar,24,Almoço,Bolsista,14:50:00,15:00:00,2023-05-30
+Artur,25,Almoço,Bolsista,14:50:00,15:00:00,2023-05-30
+Bruno,1,Janta,Regular,17:00:00,17:10:00,2023-05-30
+Carlos,2,Janta,Regular,17:00:00,17:10:00,2023-05-30
+Julia,3,Janta,Regular,17:00:00,17:10:00,2023-05-30
+Pedro,4,Janta,Regular,17:00:00,17:10:00,2023-05-30
+Maria Antonia,5,Janta,Regular,17:10:00,17:20:00,2023-05-30
+Marcos Vinicius,6,Janta,Regular,17:10:00,17:20:00,2023-05-30
+João Vitor,7,Janta,Regular,17:10:00,17:20:00,2023-05-30
+Lorena,8,Janta,Regular,17:20:00,17:30:00,2023-05-30
+Victoria,9,Janta,Regular,17:20:00,17:30:00,2023-05-30
+Sara,10,Janta,Regular,17:20:00,17:30:00,2023-05-30
+Claudio,11,Janta,Regular,17:30:00,17:40:00,2023-05-30
+Vitor,12,Janta,Regular,17:30:00,17:40:00,2023-05-30
+Paulo,13,Janta,Regular,17:30:00,17:40:00,2023-05-30
+Itana,14,Janta,Regular,17:40:00,17:50:00,2023-05-30
+Davi,15,Janta,Regular,17:50:00,18:00:00,2023-05-30
+Arthur,16,Janta,Regular,17:50:00,18:00:00,2023-05-30
+Pedro,17,Janta,Regular,17:50:00,18:00:00,2023-05-30
+Gabriel,18,Janta,Regular,17:50:00,18:00:00,2023-05-30
+Alice,19,Janta,Regular,18:00:00,18:10:00,2023-05-30
+Julia,20,Janta,Regular,18:00:00,18:10:00,2023-05-30
+Isabella,21,Janta,Regular,18:00:00,18:10:00,2023-05-30
+Miguel,22,Janta,Regular,18:00:00,18:10:00,2023-05-30
+Sophia,23,Janta,Regular,18:10:00,18:20:00,2023-05-30
+Gustavo,24,Janta,Regular,18:10:00,18:20:00,2023-05-30
+Felipe,25,Janta,Regular,18:10:00,18:20:00,2023-05-30
+Samuel,26,Janta,Regular,18:10:00,18:20:00,2023-05-30
+João Pedro,27,Janta,Regular,18:20:00,18:30:00,2023-05-30
+Yasmin,28,Janta,Regular,18:20:00,18:30:00,2023-05-30
+Isabelly,29,Janta,Regular,18:20:00,18:30:00,2023-05-30
+Sarah,30,Janta,Regular,18:20:00,18:30:00,2023-05-30
+Caio,31,Janta,Regular,18:30:00,18:40:00,2023-05-30
+Vinicius,32,Janta,Regular,18:30:00,18:40:00,2023-05-30
+Luiza,33,Janta,Regular,18:30:00,18:40:00,2023-05-30
+Valentina,34,Janta,Regular,18:30:00,18:40:00,2023-05-30
+Giovanna,35,Janta,Regular,18:40:00,18:50:00,2023-05-30
+Cauã,36,Janta,Regular,18:40:00,18:50:00,2023-05-30
+Isaac,37,Janta,Regular,18:40:00,18:50:00,2023-05-30
+Bernardo,38,Janta,Regular,18:40:00,18:50:00,2023-05-30
+Lucas,39,Janta,Regular,18:50:00,19:00:00,2023-05-30
+Matheus,40,Janta,Regular,18:50:00,19:00:00,2023-05-30
+Rafael,41,Janta,Regular,18:50:00,19:00:00,2023-05-30
+Heitor,42,Janta,Regular,18:50:00,19:00:00,2023-05-30
+Enzo,43,Janta,Regular,19:00:00,19:10:00,2023-05-30
+Laura,44,Janta,Regular,19:00:00,19:10:00,2023-05-30
+Luiza,45,Janta,Regular,19:00:00,19:10:00,2023-05-30
+Valentina,46,Janta,Regular,19:00:00,19:10:00,2023-05-30
+Giovanna,47,Janta,Regular,19:10:00,19:20:00,2023-05-30
+Maria Eduarda,48,Janta,Regular,19:10:00,19:20:00,2023-05-30
+Helena,49,Janta,Regular,19:10:00,19:20:00,2023-05-30
+Beatriz,50,Janta,Regular,19:20:00,19:30:00,2023-05-30
+Maria Luiza,51,Janta,Regular,19:20:00,19:30:00,2023-05-30
+Lara,52,Janta,Regular,19:20:00,19:30:00,2023-05-30
+Daniel,53,Janta,Regular,19:20:00,19:30:00,2023-05-30
+Vitor,54,Janta,Regular,19:30:00,19:40:00,2023-05-30
+Leonardo,55,Janta,Regular,19:30:00,19:40:00,2023-05-30
+Henrique,56,Janta,Regular,19:30:00,19:40:00,2023-05-30
+Theo,57,Janta,Regular,19:30:00,19:40:00,2023-05-30
+Murilo,58,Janta,Regular,19:40:00,19:50:00,2023-05-30
+Heloísa,59,Janta,Regular,19:40:00,19:50:00,2023-05-30
+Isadora,60,Janta,Regular,19:40:00,19:50:00,2023-05-30
+Lívia,61,Janta,Regular,19:40:00,19:50:00,2023-05-30
+Maria Clara,62,Janta,Regular,19:50:00,20:00:00,2023-05-30
+Ana Clara,63,Janta,Regular,19:50:00,20:00:00,2023-05-30
+Laurinne,64,Janta,Regular,19:50:00,20:00:00,2023-05-30
+Victor,65,Janta,Regular,19:50:00,20:00:00,2023-05-30
+Geraldo,66,Janta,Regular,20:00:00,20:10:00,2023-05-30
+Luis ,67,Janta,Regular,20:00:00,20:10:00,2023-05-30
+Amilton,68,Janta,Regular,20:00:00,20:10:00,2023-05-30
+Deliane,69,Janta,Regular,20:00:00,20:10:00,2023-05-30
+Vicente,70,Janta,Regular,20:10:00,20:20:00,2023-05-30
+Roberta,71,Janta,Regular,20:10:00,20:20:00,2023-05-30
+Wenderson,72,Janta,Regular,20:10:00,20:20:00,2023-05-30
+Higor,73,Janta,Regular,20:20:00,20:30:00,2023-05-30
+Quezia,74,Janta,Regular,20:20:00,20:30:00,2023-05-30
+Ronaldo,75,Janta,Regular,20:20:00,20:30:00,2023-05-30
+Ricardo,76,Janta,Regular,20:30:00,20:40:00,2023-05-30
+Miguel,1,Janta,Bolsista,17:00:00,17:10:00,2023-05-30
+Arthur,2,Janta,Bolsista,17:00:00,17:10:00,2023-05-30
+Gael,3,Janta,Bolsista,17:00:00,17:10:00,2023-05-30
+Théo,4,Janta,Bolsista,17:00:00,17:10:00,2023-05-30
+Heitor,5,Janta,Bolsista,17:10:00,17:20:00,2023-05-30
+Ravi,6,Janta,Bolsista,17:10:00,17:20:00,2023-05-30
+Davi,7,Janta,Bolsista,17:10:00,17:20:00,2023-05-30
+Bernardo,8,Janta,Bolsista,17:20:00,17:30:00,2023-05-30
+Noah,9,Janta,Bolsista,17:20:00,17:30:00,2023-05-30
+Gabriel,10,Janta,Bolsista,17:20:00,17:30:00,2023-05-30
+Helena,11,Janta,Bolsista,17:30:00,17:40:00,2023-05-30
+Alice,12,Janta,Bolsista,17:30:00,17:40:00,2023-05-30
+Laura,13,Janta,Bolsista,17:30:00,17:40:00,2023-05-30
+Maria Alice,14,Janta,Bolsista,17:40:00,17:50:00,2023-05-30
+Sophia,15,Janta,Bolsista,17:50:00,18:00:00,2023-05-30
+Manuela,16,Janta,Bolsista,17:50:00,18:00:00,2023-05-30
+Maitê,17,Janta,Bolsista,17:50:00,18:00:00,2023-05-30
+Liz,18,Janta,Bolsista,17:50:00,18:00:00,2023-05-30
+Cecília,19,Janta,Bolsista,18:00:00,18:10:00,2023-05-30
+Isabella,20,Janta,Bolsista,18:00:00,18:10:00,2023-05-30
+William,21,Janta,Bolsista,18:00:00,18:10:00,2023-05-30
+Jorge,22,Janta,Bolsista,18:00:00,18:10:00,2023-05-30
+Daniel,23,Janta,Bolsista,18:10:00,18:20:00,2023-05-30
+Omar,24,Janta,Bolsista,18:10:00,18:20:00,2023-05-30
+Pedro,25,Janta,Bolsista,18:10:00,18:20:00,2023-05-30
+Bruno,1,Almoço,Regular,11:00:00,11:10:00,2023-05-31
+Carlos,2,Almoço,Regular,11:00:00,11:10:00,2023-05-31
+Julia,3,Almoço,Regular,11:00:00,11:10:00,2023-05-31
+Pedro,4,Almoço,Regular,11:00:00,11:10:00,2023-05-31
+Maria Antonia,5,Almoço,Regular,11:00:00,11:10:00,2023-05-31
+Marcos Vinicius,6,Almoço,Regular,11:10:00,11:20:00,2023-05-31
+João Vitor,7,Almoço,Regular,11:10:00,11:20:00,2023-05-31
+Lorena,8,Almoço,Regular,11:10:00,11:20:00,2023-05-31
+Victoria,9,Almoço,Regular,11:10:00,11:20:00,2023-05-31
+Sara,10,Almoço,Regular,11:20:00,11:30:00,2023-05-31
+Claudio,11,Almoço,Regular,11:20:00,11:30:00,2023-05-31
+Vitor,12,Almoço,Regular,11:20:00,11:30:00,2023-05-31
+Paulo,13,Almoço,Regular,11:20:00,11:30:00,2023-05-31
+Itana,14,Almoço,Regular,11:20:00,11:30:00,2023-05-31
+Davi,15,Almoço,Regular,11:30:00,11:40:00,2023-05-31
+Arthur,16,Almoço,Regular,11:30:00,11:40:00,2023-05-31
+Pedro,17,Almoço,Regular,11:30:00,11:40:00,2023-05-31
+Gabriel,18,Almoço,Regular,11:30:00,11:40:00,2023-05-31
+Alice,19,Almoço,Regular,11:30:00,11:40:00,2023-05-31
+Julia,20,Almoço,Regular,11:40:00,11:50:00,2023-05-31
+Isabella,21,Almoço,Regular,11:40:00,11:50:00,2023-05-31
+Miguel,22,Almoço,Regular,11:40:00,11:50:00,2023-05-31
+Sophia,23,Almoço,Regular,11:40:00,11:50:00,2023-05-31
+Gustavo,24,Almoço,Regular,11:40:00,11:50:00,2023-05-31
+Felipe,25,Almoço,Regular,11:50:00,12:00:00,2023-05-31
+Samuel,26,Almoço,Regular,11:50:00,12:00:00,2023-05-31
+João Pedro,27,Almoço,Regular,11:50:00,12:00:00,2023-05-31
+Yasmin,28,Almoço,Regular,11:50:00,12:00:00,2023-05-31
+Isabelly,29,Almoço,Regular,11:50:00,12:00:00,2023-05-31
+Sarah,30,Almoço,Regular,12:00:00,12:10:00,2023-05-31
+Caio,31,Almoço,Regular,12:00:00,12:10:00,2023-05-31
+Vinicius,32,Almoço,Regular,12:00:00,12:10:00,2023-05-31
+Luiza,33,Almoço,Regular,12:00:00,12:10:00,2023-05-31
+Valentina,34,Almoço,Regular,12:00:00,12:10:00,2023-05-31
+Giovanna,35,Almoço,Regular,12:10:00,12:20:00,2023-05-31
+Cauã,36,Almoço,Regular,12:10:00,12:20:00,2023-05-31
+Isaac,37,Almoço,Regular,12:10:00,12:20:00,2023-05-31
+Bernardo,38,Almoço,Regular,12:10:00,12:20:00,2023-05-31
+Lucas,39,Almoço,Regular,12:10:00,12:20:00,2023-05-31
+Matheus,40,Almoço,Regular,12:20:00,12:30:00,2023-05-31
+Rafael,41,Almoço,Regular,12:20:00,12:30:00,2023-05-31
+Heitor,42,Almoço,Regular,12:20:00,12:30:00,2023-05-31
+Enzo,43,Almoço,Regular,12:20:00,12:30:00,2023-05-31
+Laura,44,Almoço,Regular,12:20:00,12:30:00,2023-05-31
+Luiza,45,Almoço,Regular,12:30:00,12:40:00,2023-05-31
+Valentina,46,Almoço,Regular,12:30:00,12:40:00,2023-05-31
+Giovanna,47,Almoço,Regular,12:30:00,12:40:00,2023-05-31
+Maria Eduarda,48,Almoço,Regular,12:30:00,12:40:00,2023-05-31
+Helena,49,Almoço,Regular,12:30:00,12:40:00,2023-05-31
+Beatriz,50,Almoço,Regular,12:40:00,12:50:00,2023-05-31
+Maria Luiza,51,Almoço,Regular,12:40:00,12:50:00,2023-05-31
+Lara,52,Almoço,Regular,12:40:00,12:50:00,2023-05-31
+Daniel,53,Almoço,Regular,12:40:00,12:50:00,2023-05-31
+Vitor,54,Almoço,Regular,12:40:00,12:50:00,2023-05-31
+Leonardo,55,Almoço,Regular,12:50:00,13:00:00,2023-05-31
+Henrique,56,Almoço,Regular,12:50:00,13:00:00,2023-05-31
+Theo,57,Almoço,Regular,12:50:00,13:00:00,2023-05-31
+Murilo,58,Almoço,Regular,12:50:00,13:00:00,2023-05-31
+Heloísa,59,Almoço,Regular,12:50:00,13:00:00,2023-05-31
+Isadora,60,Almoço,Regular,13:00:00,13:10:00,2023-05-31
+Lívia,61,Almoço,Regular,13:00:00,13:10:00,2023-05-31
+Maria Clara,62,Almoço,Regular,13:00:00,13:10:00,2023-05-31
+Ana Clara,63,Almoço,Regular,13:00:00,13:10:00,2023-05-31
+Laurinne,64,Almoço,Regular,13:10:00,13:20:00,2023-05-31
+Victor,65,Almoço,Regular,13:10:00,13:20:00,2023-05-31
+Geraldo,66,Almoço,Regular,13:10:00,13:20:00,2023-05-31
+Luis ,67,Almoço,Regular,13:10:00,13:20:00,2023-05-31
+Amilton,68,Almoço,Regular,13:20:00,13:30:00,2023-05-31
+Deliane,69,Almoço,Regular,13:20:00,13:30:00,2023-05-31
+Vicente,70,Almoço,Regular,13:20:00,13:30:00,2023-05-31
+Roberta,71,Almoço,Regular,13:30:00,13:40:00,2023-05-31
+Wenderson,72,Almoço,Regular,13:30:00,13:40:00,2023-05-31
+Higor,73,Almoço,Regular,13:40:00,13:50:00,2023-05-31
+Quezia,74,Almoço,Regular,13:40:00,13:50:00,2023-05-31
+Ronaldo,75,Almoço,Regular,13:40:00,13:50:00,2023-05-31
+Miguel,1,Almoço,Bolsista,14:00:00,14:10:00,2023-05-31
+Arthur,2,Almoço,Bolsista,14:00:00,14:10:00,2023-05-31
+Gael,3,Almoço,Bolsista,14:00:00,14:10:00,2023-05-31
+Théo,4,Almoço,Bolsista,14:00:00,14:10:00,2023-05-31
+Heitor,5,Almoço,Bolsista,14:10:00,14:20:00,2023-05-31
+Ravi,6,Almoço,Bolsista,14:10:00,14:20:00,2023-05-31
+Davi,7,Almoço,Bolsista,14:10:00,14:20:00,2023-05-31
+Bernardo,8,Almoço,Bolsista,14:10:00,14:20:00,2023-05-31
+Noah,9,Almoço,Bolsista,14:20:00,14:30:00,2023-05-31
+Gabriel,10,Almoço,Bolsista,14:20:00,14:30:00,2023-05-31
+Helena,11,Almoço,Bolsista,14:20:00,14:30:00,2023-05-31
+Alice,12,Almoço,Bolsista,14:20:00,14:30:00,2023-05-31
+Laura,13,Almoço,Bolsista,14:30:00,14:40:00,2023-05-31
+Maria Alice,14,Almoço,Bolsista,14:30:00,14:40:00,2023-05-31
+Sophia,15,Almoço,Bolsista,14:30:00,14:40:00,2023-05-31
+Manuela,16,Almoço,Bolsista,14:30:00,14:40:00,2023-05-31
+Maitê,17,Almoço,Bolsista,14:40:00,14:50:00,2023-05-31
+Liz,18,Almoço,Bolsista,14:40:00,14:50:00,2023-05-31
+Cecília,19,Almoço,Bolsista,14:40:00,14:50:00,2023-05-31
+Isabella,20,Almoço,Bolsista,14:40:00,14:50:00,2023-05-31
+William,21,Almoço,Bolsista,14:50:00,15:00:00,2023-05-31
+Jorge,22,Almoço,Bolsista,14:50:00,15:00:00,2023-05-31
+Daniel,23,Almoço,Bolsista,14:50:00,15:00:00,2023-05-31
+Omar,24,Almoço,Bolsista,14:50:00,15:00:00,2023-05-31
+Artur,25,Almoço,Bolsista,14:50:00,15:00:00,2023-05-31
+Bruno,1,Janta,Regular,17:00:00,17:10:00,2023-05-31
+Carlos,2,Janta,Regular,17:00:00,17:10:00,2023-05-31
+Julia,3,Janta,Regular,17:00:00,17:10:00,2023-05-31
+Pedro,4,Janta,Regular,17:00:00,17:10:00,2023-05-31
+Maria Antonia,5,Janta,Regular,17:10:00,17:20:00,2023-05-31
+Marcos Vinicius,6,Janta,Regular,17:10:00,17:20:00,2023-05-31
+João Vitor,7,Janta,Regular,17:10:00,17:20:00,2023-05-31
+Lorena,8,Janta,Regular,17:20:00,17:30:00,2023-05-31
+Victoria,9,Janta,Regular,17:20:00,17:30:00,2023-05-31
+Sara,10,Janta,Regular,17:20:00,17:30:00,2023-05-31
+Claudio,11,Janta,Regular,17:30:00,17:40:00,2023-05-31
+Vitor,12,Janta,Regular,17:30:00,17:40:00,2023-05-31
+Paulo,13,Janta,Regular,17:30:00,17:40:00,2023-05-31
+Itana,14,Janta,Regular,17:40:00,17:50:00,2023-05-31
+Davi,15,Janta,Regular,17:50:00,18:00:00,2023-05-31
+Arthur,16,Janta,Regular,17:50:00,18:00:00,2023-05-31
+Pedro,17,Janta,Regular,17:50:00,18:00:00,2023-05-31
+Gabriel,18,Janta,Regular,17:50:00,18:00:00,2023-05-31
+Alice,19,Janta,Regular,18:00:00,18:10:00,2023-05-31
+Julia,20,Janta,Regular,18:00:00,18:10:00,2023-05-31
+Isabella,21,Janta,Regular,18:00:00,18:10:00,2023-05-31
+Miguel,22,Janta,Regular,18:00:00,18:10:00,2023-05-31
+Sophia,23,Janta,Regular,18:10:00,18:20:00,2023-05-31
+Gustavo,24,Janta,Regular,18:10:00,18:20:00,2023-05-31
+Felipe,25,Janta,Regular,18:10:00,18:20:00,2023-05-31
+Samuel,26,Janta,Regular,18:10:00,18:20:00,2023-05-31
+João Pedro,27,Janta,Regular,18:20:00,18:30:00,2023-05-31
+Yasmin,28,Janta,Regular,18:20:00,18:30:00,2023-05-31
+Isabelly,29,Janta,Regular,18:20:00,18:30:00,2023-05-31
+Sarah,30,Janta,Regular,18:20:00,18:30:00,2023-05-31
+Caio,31,Janta,Regular,18:30:00,18:40:00,2023-05-31
+Vinicius,32,Janta,Regular,18:30:00,18:40:00,2023-05-31
+Luiza,33,Janta,Regular,18:30:00,18:40:00,2023-05-31
+Valentina,34,Janta,Regular,18:30:00,18:40:00,2023-05-31
+Giovanna,35,Janta,Regular,18:40:00,18:50:00,2023-05-31
+Cauã,36,Janta,Regular,18:40:00,18:50:00,2023-05-31
+Isaac,37,Janta,Regular,18:40:00,18:50:00,2023-05-31
+Bernardo,38,Janta,Regular,18:40:00,18:50:00,2023-05-31
+Lucas,39,Janta,Regular,18:50:00,19:00:00,2023-05-31
+Matheus,40,Janta,Regular,18:50:00,19:00:00,2023-05-31
+Rafael,41,Janta,Regular,18:50:00,19:00:00,2023-05-31
+Heitor,42,Janta,Regular,18:50:00,19:00:00,2023-05-31
+Enzo,43,Janta,Regular,19:00:00,19:10:00,2023-05-31
+Laura,44,Janta,Regular,19:00:00,19:10:00,2023-05-31
+Luiza,45,Janta,Regular,19:00:00,19:10:00,2023-05-31
+Valentina,46,Janta,Regular,19:00:00,19:10:00,2023-05-31
+Giovanna,47,Janta,Regular,19:10:00,19:20:00,2023-05-31
+Maria Eduarda,48,Janta,Regular,19:10:00,19:20:00,2023-05-31
+Helena,49,Janta,Regular,19:10:00,19:20:00,2023-05-31
+Beatriz,50,Janta,Regular,19:20:00,19:30:00,2023-05-31
+Maria Luiza,51,Janta,Regular,19:20:00,19:30:00,2023-05-31
+Lara,52,Janta,Regular,19:20:00,19:30:00,2023-05-31
+Daniel,53,Janta,Regular,19:20:00,19:30:00,2023-05-31
+Vitor,54,Janta,Regular,19:30:00,19:40:00,2023-05-31
+Leonardo,55,Janta,Regular,19:30:00,19:40:00,2023-05-31
+Henrique,56,Janta,Regular,19:30:00,19:40:00,2023-05-31
+Theo,57,Janta,Regular,19:30:00,19:40:00,2023-05-31
+Murilo,58,Janta,Regular,19:40:00,19:50:00,2023-05-31
+Heloísa,59,Janta,Regular,19:40:00,19:50:00,2023-05-31
+Isadora,60,Janta,Regular,19:40:00,19:50:00,2023-05-31
+Lívia,61,Janta,Regular,19:40:00,19:50:00,2023-05-31
+Maria Clara,62,Janta,Regular,19:50:00,20:00:00,2023-05-31
+Ana Clara,63,Janta,Regular,19:50:00,20:00:00,2023-05-31
+Laurinne,64,Janta,Regular,19:50:00,20:00:00,2023-05-31
+Victor,65,Janta,Regular,19:50:00,20:00:00,2023-05-31
+Geraldo,66,Janta,Regular,20:00:00,20:10:00,2023-05-31
+Luis ,67,Janta,Regular,20:00:00,20:10:00,2023-05-31
+Amilton,68,Janta,Regular,20:00:00,20:10:00,2023-05-31
+Deliane,69,Janta,Regular,20:00:00,20:10:00,2023-05-31
+Vicente,70,Janta,Regular,20:10:00,20:20:00,2023-05-31
+Roberta,71,Janta,Regular,20:10:00,20:20:00,2023-05-31
+Wenderson,72,Janta,Regular,20:10:00,20:20:00,2023-05-31
+Higor,73,Janta,Regular,20:20:00,20:30:00,2023-05-31
+Quezia,74,Janta,Regular,20:20:00,20:30:00,2023-05-31
+Ronaldo,75,Janta,Regular,20:20:00,20:30:00,2023-05-31
+Ricardo,76,Janta,Regular,20:30:00,20:40:00,2023-05-31
+Miguel,1,Janta,Bolsista,17:00:00,17:10:00,2023-05-31
+Arthur,2,Janta,Bolsista,17:00:00,17:10:00,2023-05-31
+Gael,3,Janta,Bolsista,17:00:00,17:10:00,2023-05-31
+Théo,4,Janta,Bolsista,17:00:00,17:10:00,2023-05-31
+Heitor,5,Janta,Bolsista,17:10:00,17:20:00,2023-05-31
+Ravi,6,Janta,Bolsista,17:10:00,17:20:00,2023-05-31
+Davi,7,Janta,Bolsista,17:10:00,17:20:00,2023-05-31
+Bernardo,8,Janta,Bolsista,17:20:00,17:30:00,2023-05-31
+Noah,9,Janta,Bolsista,17:20:00,17:30:00,2023-05-31
+Gabriel,10,Janta,Bolsista,17:20:00,17:30:00,2023-05-31
+Helena,11,Janta,Bolsista,17:30:00,17:40:00,2023-05-31
+Alice,12,Janta,Bolsista,17:30:00,17:40:00,2023-05-31
+Laura,13,Janta,Bolsista,17:30:00,17:40:00,2023-05-31
+Maria Alice,14,Janta,Bolsista,17:40:00,17:50:00,2023-05-31
+Sophia,15,Janta,Bolsista,17:50:00,18:00:00,2023-05-31
+Manuela,16,Janta,Bolsista,17:50:00,18:00:00,2023-05-31
+Maitê,17,Janta,Bolsista,17:50:00,18:00:00,2023-05-31
+Liz,18,Janta,Bolsista,17:50:00,18:00:00,2023-05-31
+Cecília,19,Janta,Bolsista,18:00:00,18:10:00,2023-05-31
+Isabella,20,Janta,Bolsista,18:00:00,18:10:00,2023-05-31
+William,21,Janta,Bolsista,18:00:00,18:10:00,2023-05-31
+Jorge,22,Janta,Bolsista,18:00:00,18:10:00,2023-05-31
+Daniel,23,Janta,Bolsista,18:10:00,18:20:00,2023-05-31
+Omar,24,Janta,Bolsista,18:10:00,18:20:00,2023-05-31
+Pedro,25,Janta,Bolsista,18:10:00,18:20:00,2023-05-31
+Bruno,1,Almoço,Regular,11:00:00,11:10:00,2023-06-01
+Carlos,2,Almoço,Regular,11:00:00,11:10:00,2023-06-01
+Julia,3,Almoço,Regular,11:00:00,11:10:00,2023-06-01
+Pedro,4,Almoço,Regular,11:00:00,11:10:00,2023-06-01
+Maria Antonia,5,Almoço,Regular,11:00:00,11:10:00,2023-06-01
+Marcos Vinicius,6,Almoço,Regular,11:10:00,11:20:00,2023-06-01
+João Vitor,7,Almoço,Regular,11:10:00,11:20:00,2023-06-01
+Lorena,8,Almoço,Regular,11:10:00,11:20:00,2023-06-01
+Victoria,9,Almoço,Regular,11:10:00,11:20:00,2023-06-01
+Sara,10,Almoço,Regular,11:20:00,11:30:00,2023-06-01
+Claudio,11,Almoço,Regular,11:20:00,11:30:00,2023-06-01
+Vitor,12,Almoço,Regular,11:20:00,11:30:00,2023-06-01
+Paulo,13,Almoço,Regular,11:20:00,11:30:00,2023-06-01
+Itana,14,Almoço,Regular,11:20:00,11:30:00,2023-06-01
+Davi,15,Almoço,Regular,11:30:00,11:40:00,2023-06-01
+Arthur,16,Almoço,Regular,11:30:00,11:40:00,2023-06-01
+Pedro,17,Almoço,Regular,11:30:00,11:40:00,2023-06-01
+Gabriel,18,Almoço,Regular,11:30:00,11:40:00,2023-06-01
+Alice,19,Almoço,Regular,11:30:00,11:40:00,2023-06-01
+Julia,20,Almoço,Regular,11:40:00,11:50:00,2023-06-01
+Isabella,21,Almoço,Regular,11:40:00,11:50:00,2023-06-01
+Miguel,22,Almoço,Regular,11:40:00,11:50:00,2023-06-01
+Sophia,23,Almoço,Regular,11:40:00,11:50:00,2023-06-01
+Gustavo,24,Almoço,Regular,11:40:00,11:50:00,2023-06-01
+Felipe,25,Almoço,Regular,11:50:00,12:00:00,2023-06-01
+Samuel,26,Almoço,Regular,11:50:00,12:00:00,2023-06-01
+João Pedro,27,Almoço,Regular,11:50:00,12:00:00,2023-06-01
+Yasmin,28,Almoço,Regular,11:50:00,12:00:00,2023-06-01
+Isabelly,29,Almoço,Regular,11:50:00,12:00:00,2023-06-01
+Sarah,30,Almoço,Regular,12:00:00,12:10:00,2023-06-01
+Caio,31,Almoço,Regular,12:00:00,12:10:00,2023-06-01
+Vinicius,32,Almoço,Regular,12:00:00,12:10:00,2023-06-01
+Luiza,33,Almoço,Regular,12:00:00,12:10:00,2023-06-01
+Valentina,34,Almoço,Regular,12:00:00,12:10:00,2023-06-01
+Giovanna,35,Almoço,Regular,12:10:00,12:20:00,2023-06-01
+Cauã,36,Almoço,Regular,12:10:00,12:20:00,2023-06-01
+Isaac,37,Almoço,Regular,12:10:00,12:20:00,2023-06-01
+Bernardo,38,Almoço,Regular,12:10:00,12:20:00,2023-06-01
+Lucas,39,Almoço,Regular,12:10:00,12:20:00,2023-06-01
+Matheus,40,Almoço,Regular,12:20:00,12:30:00,2023-06-01
+Rafael,41,Almoço,Regular,12:20:00,12:30:00,2023-06-01
+Heitor,42,Almoço,Regular,12:20:00,12:30:00,2023-06-01
+Enzo,43,Almoço,Regular,12:20:00,12:30:00,2023-06-01
+Laura,44,Almoço,Regular,12:20:00,12:30:00,2023-06-01
+Luiza,45,Almoço,Regular,12:30:00,12:40:00,2023-06-01
+Valentina,46,Almoço,Regular,12:30:00,12:40:00,2023-06-01
+Giovanna,47,Almoço,Regular,12:30:00,12:40:00,2023-06-01
+Maria Eduarda,48,Almoço,Regular,12:30:00,12:40:00,2023-06-01
+Helena,49,Almoço,Regular,12:30:00,12:40:00,2023-06-01
+Beatriz,50,Almoço,Regular,12:40:00,12:50:00,2023-06-01
+Maria Luiza,51,Almoço,Regular,12:40:00,12:50:00,2023-06-01
+Lara,52,Almoço,Regular,12:40:00,12:50:00,2023-06-01
+Daniel,53,Almoço,Regular,12:40:00,12:50:00,2023-06-01
+Vitor,54,Almoço,Regular,12:40:00,12:50:00,2023-06-01
+Leonardo,55,Almoço,Regular,12:50:00,13:00:00,2023-06-01
+Henrique,56,Almoço,Regular,12:50:00,13:00:00,2023-06-01
+Theo,57,Almoço,Regular,12:50:00,13:00:00,2023-06-01
+Murilo,58,Almoço,Regular,12:50:00,13:00:00,2023-06-01
+Heloísa,59,Almoço,Regular,12:50:00,13:00:00,2023-06-01
+Isadora,60,Almoço,Regular,13:00:00,13:10:00,2023-06-01
+Lívia,61,Almoço,Regular,13:00:00,13:10:00,2023-06-01
+Maria Clara,62,Almoço,Regular,13:00:00,13:10:00,2023-06-01
+Ana Clara,63,Almoço,Regular,13:00:00,13:10:00,2023-06-01
+Laurinne,64,Almoço,Regular,13:10:00,13:20:00,2023-06-01
+Victor,65,Almoço,Regular,13:10:00,13:20:00,2023-06-01
+Geraldo,66,Almoço,Regular,13:10:00,13:20:00,2023-06-01
+Luis ,67,Almoço,Regular,13:10:00,13:20:00,2023-06-01
+Amilton,68,Almoço,Regular,13:20:00,13:30:00,2023-06-01
+Deliane,69,Almoço,Regular,13:20:00,13:30:00,2023-06-01
+Vicente,70,Almoço,Regular,13:20:00,13:30:00,2023-06-01
+Roberta,71,Almoço,Regular,13:30:00,13:40:00,2023-06-01
+Wenderson,72,Almoço,Regular,13:30:00,13:40:00,2023-06-01
+Higor,73,Almoço,Regular,13:40:00,13:50:00,2023-06-01
+Quezia,74,Almoço,Regular,13:40:00,13:50:00,2023-06-01
+Ronaldo,75,Almoço,Regular,13:40:00,13:50:00,2023-06-01
+Miguel,1,Almoço,Bolsista,14:00:00,14:10:00,2023-06-01
+Arthur,2,Almoço,Bolsista,14:00:00,14:10:00,2023-06-01
+Gael,3,Almoço,Bolsista,14:00:00,14:10:00,2023-06-01
+Théo,4,Almoço,Bolsista,14:00:00,14:10:00,2023-06-01
+Heitor,5,Almoço,Bolsista,14:10:00,14:20:00,2023-06-01
+Ravi,6,Almoço,Bolsista,14:10:00,14:20:00,2023-06-01
+Davi,7,Almoço,Bolsista,14:10:00,14:20:00,2023-06-01
+Bernardo,8,Almoço,Bolsista,14:10:00,14:20:00,2023-06-01
+Noah,9,Almoço,Bolsista,14:20:00,14:30:00,2023-06-01
+Gabriel,10,Almoço,Bolsista,14:20:00,14:30:00,2023-06-01
+Helena,11,Almoço,Bolsista,14:20:00,14:30:00,2023-06-01
+Alice,12,Almoço,Bolsista,14:20:00,14:30:00,2023-06-01
+Laura,13,Almoço,Bolsista,14:30:00,14:40:00,2023-06-01
+Maria Alice,14,Almoço,Bolsista,14:30:00,14:40:00,2023-06-01
+Sophia,15,Almoço,Bolsista,14:30:00,14:40:00,2023-06-01
+Manuela,16,Almoço,Bolsista,14:30:00,14:40:00,2023-06-01
+Maitê,17,Almoço,Bolsista,14:40:00,14:50:00,2023-06-01
+Liz,18,Almoço,Bolsista,14:40:00,14:50:00,2023-06-01
+Cecília,19,Almoço,Bolsista,14:40:00,14:50:00,2023-06-01
+Isabella,20,Almoço,Bolsista,14:40:00,14:50:00,2023-06-01
+William,21,Almoço,Bolsista,14:50:00,15:00:00,2023-06-01
+Jorge,22,Almoço,Bolsista,14:50:00,15:00:00,2023-06-01
+Daniel,23,Almoço,Bolsista,14:50:00,15:00:00,2023-06-01
+Omar,24,Almoço,Bolsista,14:50:00,15:00:00,2023-06-01
+Artur,25,Almoço,Bolsista,14:50:00,15:00:00,2023-06-01
+Bruno,1,Janta,Regular,17:00:00,17:10:00,2023-06-01
+Carlos,2,Janta,Regular,17:00:00,17:10:00,2023-06-01
+Julia,3,Janta,Regular,17:00:00,17:10:00,2023-06-01
+Pedro,4,Janta,Regular,17:00:00,17:10:00,2023-06-01
+Maria Antonia,5,Janta,Regular,17:10:00,17:20:00,2023-06-01
+Marcos Vinicius,6,Janta,Regular,17:10:00,17:20:00,2023-06-01
+João Vitor,7,Janta,Regular,17:10:00,17:20:00,2023-06-01
+Lorena,8,Janta,Regular,17:20:00,17:30:00,2023-06-01
+Victoria,9,Janta,Regular,17:20:00,17:30:00,2023-06-01
+Sara,10,Janta,Regular,17:20:00,17:30:00,2023-06-01
+Claudio,11,Janta,Regular,17:30:00,17:40:00,2023-06-01
+Vitor,12,Janta,Regular,17:30:00,17:40:00,2023-06-01
+Paulo,13,Janta,Regular,17:30:00,17:40:00,2023-06-01
+Itana,14,Janta,Regular,17:40:00,17:50:00,2023-06-01
+Davi,15,Janta,Regular,17:50:00,18:00:00,2023-06-01
+Arthur,16,Janta,Regular,17:50:00,18:00:00,2023-06-01
+Pedro,17,Janta,Regular,17:50:00,18:00:00,2023-06-01
+Gabriel,18,Janta,Regular,17:50:00,18:00:00,2023-06-01
+Alice,19,Janta,Regular,18:00:00,18:10:00,2023-06-01
+Julia,20,Janta,Regular,18:00:00,18:10:00,2023-06-01
+Isabella,21,Janta,Regular,18:00:00,18:10:00,2023-06-01
+Miguel,22,Janta,Regular,18:00:00,18:10:00,2023-06-01
+Sophia,23,Janta,Regular,18:10:00,18:20:00,2023-06-01
+Gustavo,24,Janta,Regular,18:10:00,18:20:00,2023-06-01
+Felipe,25,Janta,Regular,18:10:00,18:20:00,2023-06-01
+Samuel,26,Janta,Regular,18:10:00,18:20:00,2023-06-01
+João Pedro,27,Janta,Regular,18:20:00,18:30:00,2023-06-01
+Yasmin,28,Janta,Regular,18:20:00,18:30:00,2023-06-01
+Isabelly,29,Janta,Regular,18:20:00,18:30:00,2023-06-01
+Sarah,30,Janta,Regular,18:20:00,18:30:00,2023-06-01
+Caio,31,Janta,Regular,18:30:00,18:40:00,2023-06-01
+Vinicius,32,Janta,Regular,18:30:00,18:40:00,2023-06-01
+Luiza,33,Janta,Regular,18:30:00,18:40:00,2023-06-01
+Valentina,34,Janta,Regular,18:30:00,18:40:00,2023-06-01
+Giovanna,35,Janta,Regular,18:40:00,18:50:00,2023-06-01
+Cauã,36,Janta,Regular,18:40:00,18:50:00,2023-06-01
+Isaac,37,Janta,Regular,18:40:00,18:50:00,2023-06-01
+Bernardo,38,Janta,Regular,18:40:00,18:50:00,2023-06-01
+Lucas,39,Janta,Regular,18:50:00,19:00:00,2023-06-01
+Matheus,40,Janta,Regular,18:50:00,19:00:00,2023-06-01
+Rafael,41,Janta,Regular,18:50:00,19:00:00,2023-06-01
+Heitor,42,Janta,Regular,18:50:00,19:00:00,2023-06-01
+Enzo,43,Janta,Regular,19:00:00,19:10:00,2023-06-01
+Laura,44,Janta,Regular,19:00:00,19:10:00,2023-06-01
+Luiza,45,Janta,Regular,19:00:00,19:10:00,2023-06-01
+Valentina,46,Janta,Regular,19:00:00,19:10:00,2023-06-01
+Giovanna,47,Janta,Regular,19:10:00,19:20:00,2023-06-01
+Maria Eduarda,48,Janta,Regular,19:10:00,19:20:00,2023-06-01
+Helena,49,Janta,Regular,19:10:00,19:20:00,2023-06-01
+Beatriz,50,Janta,Regular,19:20:00,19:30:00,2023-06-01
+Maria Luiza,51,Janta,Regular,19:20:00,19:30:00,2023-06-01
+Lara,52,Janta,Regular,19:20:00,19:30:00,2023-06-01
+Daniel,53,Janta,Regular,19:20:00,19:30:00,2023-06-01
+Vitor,54,Janta,Regular,19:30:00,19:40:00,2023-06-01
+Leonardo,55,Janta,Regular,19:30:00,19:40:00,2023-06-01
+Henrique,56,Janta,Regular,19:30:00,19:40:00,2023-06-01
+Theo,57,Janta,Regular,19:30:00,19:40:00,2023-06-01
+Murilo,58,Janta,Regular,19:40:00,19:50:00,2023-06-01
+Heloísa,59,Janta,Regular,19:40:00,19:50:00,2023-06-01
+Isadora,60,Janta,Regular,19:40:00,19:50:00,2023-06-01
+Lívia,61,Janta,Regular,19:40:00,19:50:00,2023-06-01
+Maria Clara,62,Janta,Regular,19:50:00,20:00:00,2023-06-01
+Ana Clara,63,Janta,Regular,19:50:00,20:00:00,2023-06-01
+Laurinne,64,Janta,Regular,19:50:00,20:00:00,2023-06-01
+Victor,65,Janta,Regular,19:50:00,20:00:00,2023-06-01
+Geraldo,66,Janta,Regular,20:00:00,20:10:00,2023-06-01
+Luis ,67,Janta,Regular,20:00:00,20:10:00,2023-06-01
+Amilton,68,Janta,Regular,20:00:00,20:10:00,2023-06-01
+Deliane,69,Janta,Regular,20:00:00,20:10:00,2023-06-01
+Vicente,70,Janta,Regular,20:10:00,20:20:00,2023-06-01
+Roberta,71,Janta,Regular,20:10:00,20:20:00,2023-06-01
+Wenderson,72,Janta,Regular,20:10:00,20:20:00,2023-06-01
+Higor,73,Janta,Regular,20:20:00,20:30:00,2023-06-01
+Quezia,74,Janta,Regular,20:20:00,20:30:00,2023-06-01
+Ronaldo,75,Janta,Regular,20:20:00,20:30:00,2023-06-01
+Ricardo,76,Janta,Regular,20:30:00,20:40:00,2023-06-01
+Miguel,1,Janta,Bolsista,17:00:00,17:10:00,2023-06-01
+Arthur,2,Janta,Bolsista,17:00:00,17:10:00,2023-06-01
+Gael,3,Janta,Bolsista,17:00:00,17:10:00,2023-06-01
+Théo,4,Janta,Bolsista,17:00:00,17:10:00,2023-06-01
+Heitor,5,Janta,Bolsista,17:10:00,17:20:00,2023-06-01
+Ravi,6,Janta,Bolsista,17:10:00,17:20:00,2023-06-01
+Davi,7,Janta,Bolsista,17:10:00,17:20:00,2023-06-01
+Bernardo,8,Janta,Bolsista,17:20:00,17:30:00,2023-06-01
+Noah,9,Janta,Bolsista,17:20:00,17:30:00,2023-06-01
+Gabriel,10,Janta,Bolsista,17:20:00,17:30:00,2023-06-01
+Helena,11,Janta,Bolsista,17:30:00,17:40:00,2023-06-01
+Alice,12,Janta,Bolsista,17:30:00,17:40:00,2023-06-01
+Laura,13,Janta,Bolsista,17:30:00,17:40:00,2023-06-01
+Maria Alice,14,Janta,Bolsista,17:40:00,17:50:00,2023-06-01
+Sophia,15,Janta,Bolsista,17:50:00,18:00:00,2023-06-01
+Manuela,16,Janta,Bolsista,17:50:00,18:00:00,2023-06-01
+Maitê,17,Janta,Bolsista,17:50:00,18:00:00,2023-06-01
+Liz,18,Janta,Bolsista,17:50:00,18:00:00,2023-06-01
+Cecília,19,Janta,Bolsista,18:00:00,18:10:00,2023-06-01
+Isabella,20,Janta,Bolsista,18:00:00,18:10:00,2023-06-01
+William,21,Janta,Bolsista,18:00:00,18:10:00,2023-06-01
+Jorge,22,Janta,Bolsista,18:00:00,18:10:00,2023-06-01
+Daniel,23,Janta,Bolsista,18:10:00,18:20:00,2023-06-01
+Omar,24,Janta,Bolsista,18:10:00,18:20:00,2023-06-01
+Pedro,25,Janta,Bolsista,18:10:00,18:20:00,2023-06-01
+Bruno,1,Almoço,Regular,11:00:00,11:10:00,2023-06-02
+Carlos,2,Almoço,Regular,11:00:00,11:10:00,2023-06-02
+Julia,3,Almoço,Regular,11:00:00,11:10:00,2023-06-02
+Pedro,4,Almoço,Regular,11:00:00,11:10:00,2023-06-02
+Maria Antonia,5,Almoço,Regular,11:00:00,11:10:00,2023-06-02
+Marcos Vinicius,6,Almoço,Regular,11:10:00,11:20:00,2023-06-02
+João Vitor,7,Almoço,Regular,11:10:00,11:20:00,2023-06-02
+Lorena,8,Almoço,Regular,11:10:00,11:20:00,2023-06-02
+Victoria,9,Almoço,Regular,11:10:00,11:20:00,2023-06-02
+Sara,10,Almoço,Regular,11:20:00,11:30:00,2023-06-02
+Claudio,11,Almoço,Regular,11:20:00,11:30:00,2023-06-02
+Vitor,12,Almoço,Regular,11:20:00,11:30:00,2023-06-02
+Paulo,13,Almoço,Regular,11:20:00,11:30:00,2023-06-02
+Itana,14,Almoço,Regular,11:20:00,11:30:00,2023-06-02
+Davi,15,Almoço,Regular,11:30:00,11:40:00,2023-06-02
+Arthur,16,Almoço,Regular,11:30:00,11:40:00,2023-06-02
+Pedro,17,Almoço,Regular,11:30:00,11:40:00,2023-06-02
+Gabriel,18,Almoço,Regular,11:30:00,11:40:00,2023-06-02
+Alice,19,Almoço,Regular,11:30:00,11:40:00,2023-06-02
+Julia,20,Almoço,Regular,11:40:00,11:50:00,2023-06-02
+Isabella,21,Almoço,Regular,11:40:00,11:50:00,2023-06-02
+Miguel,22,Almoço,Regular,11:40:00,11:50:00,2023-06-02
+Sophia,23,Almoço,Regular,11:40:00,11:50:00,2023-06-02
+Gustavo,24,Almoço,Regular,11:40:00,11:50:00,2023-06-02
+Felipe,25,Almoço,Regular,11:50:00,12:00:00,2023-06-02
+Samuel,26,Almoço,Regular,11:50:00,12:00:00,2023-06-02
+João Pedro,27,Almoço,Regular,11:50:00,12:00:00,2023-06-02
+Yasmin,28,Almoço,Regular,11:50:00,12:00:00,2023-06-02
+Isabelly,29,Almoço,Regular,11:50:00,12:00:00,2023-06-02
+Sarah,30,Almoço,Regular,12:00:00,12:10:00,2023-06-02
+Caio,31,Almoço,Regular,12:00:00,12:10:00,2023-06-02
+Vinicius,32,Almoço,Regular,12:00:00,12:10:00,2023-06-02
+Luiza,33,Almoço,Regular,12:00:00,12:10:00,2023-06-02
+Valentina,34,Almoço,Regular,12:00:00,12:10:00,2023-06-02
+Giovanna,35,Almoço,Regular,12:10:00,12:20:00,2023-06-02
+Cauã,36,Almoço,Regular,12:10:00,12:20:00,2023-06-02
+Isaac,37,Almoço,Regular,12:10:00,12:20:00,2023-06-02
+Bernardo,38,Almoço,Regular,12:10:00,12:20:00,2023-06-02
+Lucas,39,Almoço,Regular,12:10:00,12:20:00,2023-06-02
+Matheus,40,Almoço,Regular,12:20:00,12:30:00,2023-06-02
+Rafael,41,Almoço,Regular,12:20:00,12:30:00,2023-06-02
+Heitor,42,Almoço,Regular,12:20:00,12:30:00,2023-06-02
+Enzo,43,Almoço,Regular,12:20:00,12:30:00,2023-06-02
+Laura,44,Almoço,Regular,12:20:00,12:30:00,2023-06-02
+Luiza,45,Almoço,Regular,12:30:00,12:40:00,2023-06-02
+Valentina,46,Almoço,Regular,12:30:00,12:40:00,2023-06-02
+Giovanna,47,Almoço,Regular,12:30:00,12:40:00,2023-06-02
+Maria Eduarda,48,Almoço,Regular,12:30:00,12:40:00,2023-06-02
+Helena,49,Almoço,Regular,12:30:00,12:40:00,2023-06-02
+Beatriz,50,Almoço,Regular,12:40:00,12:50:00,2023-06-02
+Maria Luiza,51,Almoço,Regular,12:40:00,12:50:00,2023-06-02
+Lara,52,Almoço,Regular,12:40:00,12:50:00,2023-06-02
+Daniel,53,Almoço,Regular,12:40:00,12:50:00,2023-06-02
+Vitor,54,Almoço,Regular,12:40:00,12:50:00,2023-06-02
+Leonardo,55,Almoço,Regular,12:50:00,13:00:00,2023-06-02
+Henrique,56,Almoço,Regular,12:50:00,13:00:00,2023-06-02
+Theo,57,Almoço,Regular,12:50:00,13:00:00,2023-06-02
+Murilo,58,Almoço,Regular,12:50:00,13:00:00,2023-06-02
+Heloísa,59,Almoço,Regular,12:50:00,13:00:00,2023-06-02
+Isadora,60,Almoço,Regular,13:00:00,13:10:00,2023-06-02
+Lívia,61,Almoço,Regular,13:00:00,13:10:00,2023-06-02
+Maria Clara,62,Almoço,Regular,13:00:00,13:10:00,2023-06-02
+Ana Clara,63,Almoço,Regular,13:00:00,13:10:00,2023-06-02
+Laurinne,64,Almoço,Regular,13:10:00,13:20:00,2023-06-02
+Victor,65,Almoço,Regular,13:10:00,13:20:00,2023-06-02
+Geraldo,66,Almoço,Regular,13:10:00,13:20:00,2023-06-02
+Luis ,67,Almoço,Regular,13:10:00,13:20:00,2023-06-02
+Amilton,68,Almoço,Regular,13:20:00,13:30:00,2023-06-02
+Deliane,69,Almoço,Regular,13:20:00,13:30:00,2023-06-02
+Vicente,70,Almoço,Regular,13:20:00,13:30:00,2023-06-02
+Roberta,71,Almoço,Regular,13:30:00,13:40:00,2023-06-02
+Wenderson,72,Almoço,Regular,13:30:00,13:40:00,2023-06-02
+Higor,73,Almoço,Regular,13:40:00,13:50:00,2023-06-02
+Quezia,74,Almoço,Regular,13:40:00,13:50:00,2023-06-02
+Ronaldo,75,Almoço,Regular,13:40:00,13:50:00,2023-06-02
+Miguel,1,Almoço,Bolsista,14:00:00,14:10:00,2023-06-02
+Arthur,2,Almoço,Bolsista,14:00:00,14:10:00,2023-06-02
+Gael,3,Almoço,Bolsista,14:00:00,14:10:00,2023-06-02
+Théo,4,Almoço,Bolsista,14:00:00,14:10:00,2023-06-02
+Heitor,5,Almoço,Bolsista,14:10:00,14:20:00,2023-06-02
+Ravi,6,Almoço,Bolsista,14:10:00,14:20:00,2023-06-02
+Davi,7,Almoço,Bolsista,14:10:00,14:20:00,2023-06-02
+Bernardo,8,Almoço,Bolsista,14:10:00,14:20:00,2023-06-02
+Noah,9,Almoço,Bolsista,14:20:00,14:30:00,2023-06-02
+Gabriel,10,Almoço,Bolsista,14:20:00,14:30:00,2023-06-02
+Helena,11,Almoço,Bolsista,14:20:00,14:30:00,2023-06-02
+Alice,12,Almoço,Bolsista,14:20:00,14:30:00,2023-06-02
+Laura,13,Almoço,Bolsista,14:30:00,14:40:00,2023-06-02
+Maria Alice,14,Almoço,Bolsista,14:30:00,14:40:00,2023-06-02
+Sophia,15,Almoço,Bolsista,14:30:00,14:40:00,2023-06-02
+Manuela,16,Almoço,Bolsista,14:30:00,14:40:00,2023-06-02
+Maitê,17,Almoço,Bolsista,14:40:00,14:50:00,2023-06-02
+Liz,18,Almoço,Bolsista,14:40:00,14:50:00,2023-06-02
+Cecília,19,Almoço,Bolsista,14:40:00,14:50:00,2023-06-02
+Isabella,20,Almoço,Bolsista,14:40:00,14:50:00,2023-06-02
+William,21,Almoço,Bolsista,14:50:00,15:00:00,2023-06-02
+Jorge,22,Almoço,Bolsista,14:50:00,15:00:00,2023-06-02
+Daniel,23,Almoço,Bolsista,14:50:00,15:00:00,2023-06-02
+Omar,24,Almoço,Bolsista,14:50:00,15:00:00,2023-06-02
+Artur,25,Almoço,Bolsista,14:50:00,15:00:00,2023-06-02
+Bruno,1,Janta,Regular,17:00:00,17:10:00,2023-06-02
+Carlos,2,Janta,Regular,17:00:00,17:10:00,2023-06-02
+Julia,3,Janta,Regular,17:00:00,17:10:00,2023-06-02
+Pedro,4,Janta,Regular,17:00:00,17:10:00,2023-06-02
+Maria Antonia,5,Janta,Regular,17:10:00,17:20:00,2023-06-02
+Marcos Vinicius,6,Janta,Regular,17:10:00,17:20:00,2023-06-02
+João Vitor,7,Janta,Regular,17:10:00,17:20:00,2023-06-02
+Lorena,8,Janta,Regular,17:20:00,17:30:00,2023-06-02
+Victoria,9,Janta,Regular,17:20:00,17:30:00,2023-06-02
+Sara,10,Janta,Regular,17:20:00,17:30:00,2023-06-02
+Claudio,11,Janta,Regular,17:30:00,17:40:00,2023-06-02
+Vitor,12,Janta,Regular,17:30:00,17:40:00,2023-06-02
+Paulo,13,Janta,Regular,17:30:00,17:40:00,2023-06-02
+Itana,14,Janta,Regular,17:40:00,17:50:00,2023-06-02
+Davi,15,Janta,Regular,17:50:00,18:00:00,2023-06-02
+Arthur,16,Janta,Regular,17:50:00,18:00:00,2023-06-02
+Pedro,17,Janta,Regular,17:50:00,18:00:00,2023-06-02
+Gabriel,18,Janta,Regular,17:50:00,18:00:00,2023-06-02
+Alice,19,Janta,Regular,18:00:00,18:10:00,2023-06-02
+Julia,20,Janta,Regular,18:00:00,18:10:00,2023-06-02
+Isabella,21,Janta,Regular,18:00:00,18:10:00,2023-06-02
+Miguel,22,Janta,Regular,18:00:00,18:10:00,2023-06-02
+Sophia,23,Janta,Regular,18:10:00,18:20:00,2023-06-02
+Gustavo,24,Janta,Regular,18:10:00,18:20:00,2023-06-02
+Felipe,25,Janta,Regular,18:10:00,18:20:00,2023-06-02
+Samuel,26,Janta,Regular,18:10:00,18:20:00,2023-06-02
+João Pedro,27,Janta,Regular,18:20:00,18:30:00,2023-06-02
+Yasmin,28,Janta,Regular,18:20:00,18:30:00,2023-06-02
+Isabelly,29,Janta,Regular,18:20:00,18:30:00,2023-06-02
+Sarah,30,Janta,Regular,18:20:00,18:30:00,2023-06-02
+Caio,31,Janta,Regular,18:30:00,18:40:00,2023-06-02
+Vinicius,32,Janta,Regular,18:30:00,18:40:00,2023-06-02
+Luiza,33,Janta,Regular,18:30:00,18:40:00,2023-06-02
+Valentina,34,Janta,Regular,18:30:00,18:40:00,2023-06-02
+Giovanna,35,Janta,Regular,18:40:00,18:50:00,2023-06-02
+Cauã,36,Janta,Regular,18:40:00,18:50:00,2023-06-02
+Isaac,37,Janta,Regular,18:40:00,18:50:00,2023-06-02
+Bernardo,38,Janta,Regular,18:40:00,18:50:00,2023-06-02
+Lucas,39,Janta,Regular,18:50:00,19:00:00,2023-06-02
+Matheus,40,Janta,Regular,18:50:00,19:00:00,2023-06-02
+Rafael,41,Janta,Regular,18:50:00,19:00:00,2023-06-02
+Heitor,42,Janta,Regular,18:50:00,19:00:00,2023-06-02
+Enzo,43,Janta,Regular,19:00:00,19:10:00,2023-06-02
+Laura,44,Janta,Regular,19:00:00,19:10:00,2023-06-02
+Luiza,45,Janta,Regular,19:00:00,19:10:00,2023-06-02
+Valentina,46,Janta,Regular,19:00:00,19:10:00,2023-06-02
+Giovanna,47,Janta,Regular,19:10:00,19:20:00,2023-06-02
+Maria Eduarda,48,Janta,Regular,19:10:00,19:20:00,2023-06-02
+Helena,49,Janta,Regular,19:10:00,19:20:00,2023-06-02
+Beatriz,50,Janta,Regular,19:20:00,19:30:00,2023-06-02
+Maria Luiza,51,Janta,Regular,19:20:00,19:30:00,2023-06-02
+Lara,52,Janta,Regular,19:20:00,19:30:00,2023-06-02
+Daniel,53,Janta,Regular,19:20:00,19:30:00,2023-06-02
+Vitor,54,Janta,Regular,19:30:00,19:40:00,2023-06-02
+Leonardo,55,Janta,Regular,19:30:00,19:40:00,2023-06-02
+Henrique,56,Janta,Regular,19:30:00,19:40:00,2023-06-02
+Theo,57,Janta,Regular,19:30:00,19:40:00,2023-06-02
+Murilo,58,Janta,Regular,19:40:00,19:50:00,2023-06-02
+Heloísa,59,Janta,Regular,19:40:00,19:50:00,2023-06-02
+Isadora,60,Janta,Regular,19:40:00,19:50:00,2023-06-02
+Lívia,61,Janta,Regular,19:40:00,19:50:00,2023-06-02
+Maria Clara,62,Janta,Regular,19:50:00,20:00:00,2023-06-02
+Ana Clara,63,Janta,Regular,19:50:00,20:00:00,2023-06-02
+Laurinne,64,Janta,Regular,19:50:00,20:00:00,2023-06-02
+Victor,65,Janta,Regular,19:50:00,20:00:00,2023-06-02
+Geraldo,66,Janta,Regular,20:00:00,20:10:00,2023-06-02
+Luis ,67,Janta,Regular,20:00:00,20:10:00,2023-06-02
+Amilton,68,Janta,Regular,20:00:00,20:10:00,2023-06-02
+Deliane,69,Janta,Regular,20:00:00,20:10:00,2023-06-02
+Vicente,70,Janta,Regular,20:10:00,20:20:00,2023-06-02
+Roberta,71,Janta,Regular,20:10:00,20:20:00,2023-06-02
+Wenderson,72,Janta,Regular,20:10:00,20:20:00,2023-06-02
+Higor,73,Janta,Regular,20:20:00,20:30:00,2023-06-02
+Quezia,74,Janta,Regular,20:20:00,20:30:00,2023-06-02
+Ronaldo,75,Janta,Regular,20:20:00,20:30:00,2023-06-02
+Ricardo,76,Janta,Regular,20:30:00,20:40:00,2023-06-02
+Miguel,1,Janta,Bolsista,17:00:00,17:10:00,2023-06-02
+Arthur,2,Janta,Bolsista,17:00:00,17:10:00,2023-06-02
+Gael,3,Janta,Bolsista,17:00:00,17:10:00,2023-06-02
+Théo,4,Janta,Bolsista,17:00:00,17:10:00,2023-06-02
+Heitor,5,Janta,Bolsista,17:10:00,17:20:00,2023-06-02
+Ravi,6,Janta,Bolsista,17:10:00,17:20:00,2023-06-02
+Davi,7,Janta,Bolsista,17:10:00,17:20:00,2023-06-02
+Bernardo,8,Janta,Bolsista,17:20:00,17:30:00,2023-06-02
+Noah,9,Janta,Bolsista,17:20:00,17:30:00,2023-06-02
+Gabriel,10,Janta,Bolsista,17:20:00,17:30:00,2023-06-02
+Helena,11,Janta,Bolsista,17:30:00,17:40:00,2023-06-02
+Alice,12,Janta,Bolsista,17:30:00,17:40:00,2023-06-02
+Laura,13,Janta,Bolsista,17:30:00,17:40:00,2023-06-02
+Maria Alice,14,Janta,Bolsista,17:40:00,17:50:00,2023-06-02
+Sophia,15,Janta,Bolsista,17:50:00,18:00:00,2023-06-02
+Manuela,16,Janta,Bolsista,17:50:00,18:00:00,2023-06-02
+Maitê,17,Janta,Bolsista,17:50:00,18:00:00,2023-06-02
+Liz,18,Janta,Bolsista,17:50:00,18:00:00,2023-06-02
+Cecília,19,Janta,Bolsista,18:00:00,18:10:00,2023-06-02
+Isabella,20,Janta,Bolsista,18:00:00,18:10:00,2023-06-02
+William,21,Janta,Bolsista,18:00:00,18:10:00,2023-06-02
+Jorge,22,Janta,Bolsista,18:00:00,18:10:00,2023-06-02
+Daniel,23,Janta,Bolsista,18:10:00,18:20:00,2023-06-02
+Omar,24,Janta,Bolsista,18:10:00,18:20:00,2023-06-02
+Pedro,25,Janta,Bolsista,18:10:00,18:20:00,2023-06-02
+Bruno,1,Almoço,Regular,11:00:00,11:10:00,2023-06-03
+Carlos,2,Almoço,Regular,11:00:00,11:10:00,2023-06-03
+Julia,3,Almoço,Regular,11:00:00,11:10:00,2023-06-03
+Pedro,4,Almoço,Regular,11:00:00,11:10:00,2023-06-03
+Maria Antonia,5,Almoço,Regular,11:00:00,11:10:00,2023-06-03
+Marcos Vinicius,6,Almoço,Regular,11:10:00,11:20:00,2023-06-03
+João Vitor,7,Almoço,Regular,11:10:00,11:20:00,2023-06-03
+Lorena,8,Almoço,Regular,11:10:00,11:20:00,2023-06-03
+Victoria,9,Almoço,Regular,11:10:00,11:20:00,2023-06-03
+Sara,10,Almoço,Regular,11:20:00,11:30:00,2023-06-03
+Claudio,11,Almoço,Regular,11:20:00,11:30:00,2023-06-03
+Vitor,12,Almoço,Regular,11:20:00,11:30:00,2023-06-03
+Paulo,13,Almoço,Regular,11:20:00,11:30:00,2023-06-03
+Itana,14,Almoço,Regular,11:20:00,11:30:00,2023-06-03
+Davi,15,Almoço,Regular,11:30:00,11:40:00,2023-06-03
+Arthur,16,Almoço,Regular,11:30:00,11:40:00,2023-06-03
+Pedro,17,Almoço,Regular,11:30:00,11:40:00,2023-06-03
+Gabriel,18,Almoço,Regular,11:30:00,11:40:00,2023-06-03
+Alice,19,Almoço,Regular,11:30:00,11:40:00,2023-06-03
+Julia,20,Almoço,Regular,11:40:00,11:50:00,2023-06-03
+Isabella,21,Almoço,Regular,11:40:00,11:50:00,2023-06-03
+Miguel,22,Almoço,Regular,11:40:00,11:50:00,2023-06-03
+Sophia,23,Almoço,Regular,11:40:00,11:50:00,2023-06-03
+Gustavo,24,Almoço,Regular,11:40:00,11:50:00,2023-06-03
+Felipe,25,Almoço,Regular,11:50:00,12:00:00,2023-06-03
+Samuel,26,Almoço,Regular,11:50:00,12:00:00,2023-06-03
+João Pedro,27,Almoço,Regular,11:50:00,12:00:00,2023-06-03
+Yasmin,28,Almoço,Regular,11:50:00,12:00:00,2023-06-03
+Isabelly,29,Almoço,Regular,11:50:00,12:00:00,2023-06-03
+Sarah,30,Almoço,Regular,12:00:00,12:10:00,2023-06-03
+Caio,31,Almoço,Regular,12:00:00,12:10:00,2023-06-03
+Vinicius,32,Almoço,Regular,12:00:00,12:10:00,2023-06-03
+Luiza,33,Almoço,Regular,12:00:00,12:10:00,2023-06-03
+Valentina,34,Almoço,Regular,12:00:00,12:10:00,2023-06-03
+Giovanna,35,Almoço,Regular,12:10:00,12:20:00,2023-06-03
+Cauã,36,Almoço,Regular,12:10:00,12:20:00,2023-06-03
+Isaac,37,Almoço,Regular,12:10:00,12:20:00,2023-06-03
+Bernardo,38,Almoço,Regular,12:10:00,12:20:00,2023-06-03
+Lucas,39,Almoço,Regular,12:10:00,12:20:00,2023-06-03
+Matheus,40,Almoço,Regular,12:20:00,12:30:00,2023-06-03
+Rafael,41,Almoço,Regular,12:20:00,12:30:00,2023-06-03
+Heitor,42,Almoço,Regular,12:20:00,12:30:00,2023-06-03
+Enzo,43,Almoço,Regular,12:20:00,12:30:00,2023-06-03
+Laura,44,Almoço,Regular,12:20:00,12:30:00,2023-06-03
+Luiza,45,Almoço,Regular,12:30:00,12:40:00,2023-06-03
+Valentina,46,Almoço,Regular,12:30:00,12:40:00,2023-06-03
+Giovanna,47,Almoço,Regular,12:30:00,12:40:00,2023-06-03
+Maria Eduarda,48,Almoço,Regular,12:30:00,12:40:00,2023-06-03
+Helena,49,Almoço,Regular,12:30:00,12:40:00,2023-06-03
+Beatriz,50,Almoço,Regular,12:40:00,12:50:00,2023-06-03
+Maria Luiza,51,Almoço,Regular,12:40:00,12:50:00,2023-06-03
+Lara,52,Almoço,Regular,12:40:00,12:50:00,2023-06-03
+Daniel,53,Almoço,Regular,12:40:00,12:50:00,2023-06-03
+Vitor,54,Almoço,Regular,12:40:00,12:50:00,2023-06-03
+Leonardo,55,Almoço,Regular,12:50:00,13:00:00,2023-06-03
+Henrique,56,Almoço,Regular,12:50:00,13:00:00,2023-06-03
+Theo,57,Almoço,Regular,12:50:00,13:00:00,2023-06-03
+Murilo,58,Almoço,Regular,12:50:00,13:00:00,2023-06-03
+Heloísa,59,Almoço,Regular,12:50:00,13:00:00,2023-06-03
+Isadora,60,Almoço,Regular,13:00:00,13:10:00,2023-06-03
+Lívia,61,Almoço,Regular,13:00:00,13:10:00,2023-06-03
+Maria Clara,62,Almoço,Regular,13:00:00,13:10:00,2023-06-03
+Ana Clara,63,Almoço,Regular,13:00:00,13:10:00,2023-06-03
+Laurinne,64,Almoço,Regular,13:10:00,13:20:00,2023-06-03
+Victor,65,Almoço,Regular,13:10:00,13:20:00,2023-06-03
+Geraldo,66,Almoço,Regular,13:10:00,13:20:00,2023-06-03
+Luis ,67,Almoço,Regular,13:10:00,13:20:00,2023-06-03
+Amilton,68,Almoço,Regular,13:20:00,13:30:00,2023-06-03
+Deliane,69,Almoço,Regular,13:20:00,13:30:00,2023-06-03
+Vicente,70,Almoço,Regular,13:20:00,13:30:00,2023-06-03
+Roberta,71,Almoço,Regular,13:30:00,13:40:00,2023-06-03
+Wenderson,72,Almoço,Regular,13:30:00,13:40:00,2023-06-03
+Higor,73,Almoço,Regular,13:40:00,13:50:00,2023-06-03
+Quezia,74,Almoço,Regular,13:40:00,13:50:00,2023-06-03
+Ronaldo,75,Almoço,Regular,13:40:00,13:50:00,2023-06-03
+Miguel,1,Almoço,Bolsista,14:00:00,14:10:00,2023-06-03
+Arthur,2,Almoço,Bolsista,14:00:00,14:10:00,2023-06-03
+Gael,3,Almoço,Bolsista,14:00:00,14:10:00,2023-06-03
+Théo,4,Almoço,Bolsista,14:00:00,14:10:00,2023-06-03
+Heitor,5,Almoço,Bolsista,14:10:00,14:20:00,2023-06-03
+Ravi,6,Almoço,Bolsista,14:10:00,14:20:00,2023-06-03
+Davi,7,Almoço,Bolsista,14:10:00,14:20:00,2023-06-03
+Bernardo,8,Almoço,Bolsista,14:10:00,14:20:00,2023-06-03
+Noah,9,Almoço,Bolsista,14:20:00,14:30:00,2023-06-03
+Gabriel,10,Almoço,Bolsista,14:20:00,14:30:00,2023-06-03
+Helena,11,Almoço,Bolsista,14:20:00,14:30:00,2023-06-03
+Alice,12,Almoço,Bolsista,14:20:00,14:30:00,2023-06-03
+Laura,13,Almoço,Bolsista,14:30:00,14:40:00,2023-06-03
+Maria Alice,14,Almoço,Bolsista,14:30:00,14:40:00,2023-06-03
+Sophia,15,Almoço,Bolsista,14:30:00,14:40:00,2023-06-03
+Manuela,16,Almoço,Bolsista,14:30:00,14:40:00,2023-06-03
+Maitê,17,Almoço,Bolsista,14:40:00,14:50:00,2023-06-03
+Liz,18,Almoço,Bolsista,14:40:00,14:50:00,2023-06-03
+Cecília,19,Almoço,Bolsista,14:40:00,14:50:00,2023-06-03
+Isabella,20,Almoço,Bolsista,14:40:00,14:50:00,2023-06-03
+William,21,Almoço,Bolsista,14:50:00,15:00:00,2023-06-03
+Jorge,22,Almoço,Bolsista,14:50:00,15:00:00,2023-06-03
+Daniel,23,Almoço,Bolsista,14:50:00,15:00:00,2023-06-03
+Omar,24,Almoço,Bolsista,14:50:00,15:00:00,2023-06-03
+Artur,25,Almoço,Bolsista,14:50:00,15:00:00,2023-06-03
+Bruno,1,Janta,Regular,17:00:00,17:10:00,2023-06-03
+Carlos,2,Janta,Regular,17:00:00,17:10:00,2023-06-03
+Julia,3,Janta,Regular,17:00:00,17:10:00,2023-06-03
+Pedro,4,Janta,Regular,17:00:00,17:10:00,2023-06-03
+Maria Antonia,5,Janta,Regular,17:10:00,17:20:00,2023-06-03
+Marcos Vinicius,6,Janta,Regular,17:10:00,17:20:00,2023-06-03
+João Vitor,7,Janta,Regular,17:10:00,17:20:00,2023-06-03
+Lorena,8,Janta,Regular,17:20:00,17:30:00,2023-06-03
+Victoria,9,Janta,Regular,17:20:00,17:30:00,2023-06-03
+Sara,10,Janta,Regular,17:20:00,17:30:00,2023-06-03
+Claudio,11,Janta,Regular,17:30:00,17:40:00,2023-06-03
+Vitor,12,Janta,Regular,17:30:00,17:40:00,2023-06-03
+Paulo,13,Janta,Regular,17:30:00,17:40:00,2023-06-03
+Itana,14,Janta,Regular,17:40:00,17:50:00,2023-06-03
+Davi,15,Janta,Regular,17:50:00,18:00:00,2023-06-03
+Arthur,16,Janta,Regular,17:50:00,18:00:00,2023-06-03
+Pedro,17,Janta,Regular,17:50:00,18:00:00,2023-06-03
+Gabriel,18,Janta,Regular,17:50:00,18:00:00,2023-06-03
+Alice,19,Janta,Regular,18:00:00,18:10:00,2023-06-03
+Julia,20,Janta,Regular,18:00:00,18:10:00,2023-06-03
+Isabella,21,Janta,Regular,18:00:00,18:10:00,2023-06-03
+Miguel,22,Janta,Regular,18:00:00,18:10:00,2023-06-03
+Sophia,23,Janta,Regular,18:10:00,18:20:00,2023-06-03
+Gustavo,24,Janta,Regular,18:10:00,18:20:00,2023-06-03
+Felipe,25,Janta,Regular,18:10:00,18:20:00,2023-06-03
+Samuel,26,Janta,Regular,18:10:00,18:20:00,2023-06-03
+João Pedro,27,Janta,Regular,18:20:00,18:30:00,2023-06-03
+Yasmin,28,Janta,Regular,18:20:00,18:30:00,2023-06-03
+Isabelly,29,Janta,Regular,18:20:00,18:30:00,2023-06-03
+Sarah,30,Janta,Regular,18:20:00,18:30:00,2023-06-03
+Caio,31,Janta,Regular,18:30:00,18:40:00,2023-06-03
+Vinicius,32,Janta,Regular,18:30:00,18:40:00,2023-06-03
+Luiza,33,Janta,Regular,18:30:00,18:40:00,2023-06-03
+Valentina,34,Janta,Regular,18:30:00,18:40:00,2023-06-03
+Giovanna,35,Janta,Regular,18:40:00,18:50:00,2023-06-03
+Cauã,36,Janta,Regular,18:40:00,18:50:00,2023-06-03
+Isaac,37,Janta,Regular,18:40:00,18:50:00,2023-06-03
+Bernardo,38,Janta,Regular,18:40:00,18:50:00,2023-06-03
+Lucas,39,Janta,Regular,18:50:00,19:00:00,2023-06-03
+Matheus,40,Janta,Regular,18:50:00,19:00:00,2023-06-03
+Rafael,41,Janta,Regular,18:50:00,19:00:00,2023-06-03
+Heitor,42,Janta,Regular,18:50:00,19:00:00,2023-06-03
+Enzo,43,Janta,Regular,19:00:00,19:10:00,2023-06-03
+Laura,44,Janta,Regular,19:00:00,19:10:00,2023-06-03
+Luiza,45,Janta,Regular,19:00:00,19:10:00,2023-06-03
+Valentina,46,Janta,Regular,19:00:00,19:10:00,2023-06-03
+Giovanna,47,Janta,Regular,19:10:00,19:20:00,2023-06-03
+Maria Eduarda,48,Janta,Regular,19:10:00,19:20:00,2023-06-03
+Helena,49,Janta,Regular,19:10:00,19:20:00,2023-06-03
+Beatriz,50,Janta,Regular,19:20:00,19:30:00,2023-06-03
+Maria Luiza,51,Janta,Regular,19:20:00,19:30:00,2023-06-03
+Lara,52,Janta,Regular,19:20:00,19:30:00,2023-06-03
+Daniel,53,Janta,Regular,19:20:00,19:30:00,2023-06-03
+Vitor,54,Janta,Regular,19:30:00,19:40:00,2023-06-03
+Leonardo,55,Janta,Regular,19:30:00,19:40:00,2023-06-03
+Henrique,56,Janta,Regular,19:30:00,19:40:00,2023-06-03
+Theo,57,Janta,Regular,19:30:00,19:40:00,2023-06-03
+Murilo,58,Janta,Regular,19:40:00,19:50:00,2023-06-03
+Heloísa,59,Janta,Regular,19:40:00,19:50:00,2023-06-03
+Isadora,60,Janta,Regular,19:40:00,19:50:00,2023-06-03
+Lívia,61,Janta,Regular,19:40:00,19:50:00,2023-06-03
+Maria Clara,62,Janta,Regular,19:50:00,20:00:00,2023-06-03
+Ana Clara,63,Janta,Regular,19:50:00,20:00:00,2023-06-03
+Laurinne,64,Janta,Regular,19:50:00,20:00:00,2023-06-03
+Victor,65,Janta,Regular,19:50:00,20:00:00,2023-06-03
+Geraldo,66,Janta,Regular,20:00:00,20:10:00,2023-06-03
+Luis ,67,Janta,Regular,20:00:00,20:10:00,2023-06-03
+Amilton,68,Janta,Regular,20:00:00,20:10:00,2023-06-03
+Deliane,69,Janta,Regular,20:00:00,20:10:00,2023-06-03
+Vicente,70,Janta,Regular,20:10:00,20:20:00,2023-06-03
+Roberta,71,Janta,Regular,20:10:00,20:20:00,2023-06-03
+Wenderson,72,Janta,Regular,20:10:00,20:20:00,2023-06-03
+Higor,73,Janta,Regular,20:20:00,20:30:00,2023-06-03
+Quezia,74,Janta,Regular,20:20:00,20:30:00,2023-06-03
+Ronaldo,75,Janta,Regular,20:20:00,20:30:00,2023-06-03
+Ricardo,76,Janta,Regular,20:30:00,20:40:00,2023-06-03
+Miguel,1,Janta,Bolsista,17:00:00,17:10:00,2023-06-03
+Arthur,2,Janta,Bolsista,17:00:00,17:10:00,2023-06-03
+Gael,3,Janta,Bolsista,17:00:00,17:10:00,2023-06-03
+Théo,4,Janta,Bolsista,17:00:00,17:10:00,2023-06-03
+Heitor,5,Janta,Bolsista,17:10:00,17:20:00,2023-06-03
+Ravi,6,Janta,Bolsista,17:10:00,17:20:00,2023-06-03
+Davi,7,Janta,Bolsista,17:10:00,17:20:00,2023-06-03
+Bernardo,8,Janta,Bolsista,17:20:00,17:30:00,2023-06-03
+Noah,9,Janta,Bolsista,17:20:00,17:30:00,2023-06-03
+Gabriel,10,Janta,Bolsista,17:20:00,17:30:00,2023-06-03
+Helena,11,Janta,Bolsista,17:30:00,17:40:00,2023-06-03
+Alice,12,Janta,Bolsista,17:30:00,17:40:00,2023-06-03
+Laura,13,Janta,Bolsista,17:30:00,17:40:00,2023-06-03
+Maria Alice,14,Janta,Bolsista,17:40:00,17:50:00,2023-06-03
+Sophia,15,Janta,Bolsista,17:50:00,18:00:00,2023-06-03
+Manuela,16,Janta,Bolsista,17:50:00,18:00:00,2023-06-03
+Maitê,17,Janta,Bolsista,17:50:00,18:00:00,2023-06-03
+Liz,18,Janta,Bolsista,17:50:00,18:00:00,2023-06-03
+Cecília,19,Janta,Bolsista,18:00:00,18:10:00,2023-06-03
+Isabella,20,Janta,Bolsista,18:00:00,18:10:00,2023-06-03
+William,21,Janta,Bolsista,18:00:00,18:10:00,2023-06-03
+Jorge,22,Janta,Bolsista,18:00:00,18:10:00,2023-06-03
+Daniel,23,Janta,Bolsista,18:10:00,18:20:00,2023-06-03
+Omar,24,Janta,Bolsista,18:10:00,18:20:00,2023-06-03
+Pedro,25,Janta,Bolsista,18:10:00,18:20:00,2023-06-03
+Bruno,1,Almoço,Regular,11:00:00,11:10:00,2023-06-04
+Carlos,2,Almoço,Regular,11:00:00,11:10:00,2023-06-04
+Julia,3,Almoço,Regular,11:00:00,11:10:00,2023-06-04
+Pedro,4,Almoço,Regular,11:00:00,11:10:00,2023-06-04
+Maria Antonia,5,Almoço,Regular,11:00:00,11:10:00,2023-06-04
+Marcos Vinicius,6,Almoço,Regular,11:10:00,11:20:00,2023-06-04
+João Vitor,7,Almoço,Regular,11:10:00,11:20:00,2023-06-04
+Lorena,8,Almoço,Regular,11:10:00,11:20:00,2023-06-04
+Victoria,9,Almoço,Regular,11:10:00,11:20:00,2023-06-04
+Sara,10,Almoço,Regular,11:20:00,11:30:00,2023-06-04
+Claudio,11,Almoço,Regular,11:20:00,11:30:00,2023-06-04
+Vitor,12,Almoço,Regular,11:20:00,11:30:00,2023-06-04
+Paulo,13,Almoço,Regular,11:20:00,11:30:00,2023-06-04
+Itana,14,Almoço,Regular,11:20:00,11:30:00,2023-06-04
+Davi,15,Almoço,Regular,11:30:00,11:40:00,2023-06-04
+Arthur,16,Almoço,Regular,11:30:00,11:40:00,2023-06-04
+Pedro,17,Almoço,Regular,11:30:00,11:40:00,2023-06-04
+Gabriel,18,Almoço,Regular,11:30:00,11:40:00,2023-06-04
+Alice,19,Almoço,Regular,11:30:00,11:40:00,2023-06-04
+Julia,20,Almoço,Regular,11:40:00,11:50:00,2023-06-04
+Isabella,21,Almoço,Regular,11:40:00,11:50:00,2023-06-04
+Miguel,22,Almoço,Regular,11:40:00,11:50:00,2023-06-04
+Sophia,23,Almoço,Regular,11:40:00,11:50:00,2023-06-04
+Gustavo,24,Almoço,Regular,11:40:00,11:50:00,2023-06-04
+Felipe,25,Almoço,Regular,11:50:00,12:00:00,2023-06-04
+Samuel,26,Almoço,Regular,11:50:00,12:00:00,2023-06-04
+João Pedro,27,Almoço,Regular,11:50:00,12:00:00,2023-06-04
+Yasmin,28,Almoço,Regular,11:50:00,12:00:00,2023-06-04
+Isabelly,29,Almoço,Regular,11:50:00,12:00:00,2023-06-04
+Sarah,30,Almoço,Regular,12:00:00,12:10:00,2023-06-04
+Caio,31,Almoço,Regular,12:00:00,12:10:00,2023-06-04
+Vinicius,32,Almoço,Regular,12:00:00,12:10:00,2023-06-04
+Luiza,33,Almoço,Regular,12:00:00,12:10:00,2023-06-04
+Valentina,34,Almoço,Regular,12:00:00,12:10:00,2023-06-04
+Giovanna,35,Almoço,Regular,12:10:00,12:20:00,2023-06-04
+Cauã,36,Almoço,Regular,12:10:00,12:20:00,2023-06-04
+Isaac,37,Almoço,Regular,12:10:00,12:20:00,2023-06-04
+Bernardo,38,Almoço,Regular,12:10:00,12:20:00,2023-06-04
+Lucas,39,Almoço,Regular,12:10:00,12:20:00,2023-06-04
+Matheus,40,Almoço,Regular,12:20:00,12:30:00,2023-06-04
+Rafael,41,Almoço,Regular,12:20:00,12:30:00,2023-06-04
+Heitor,42,Almoço,Regular,12:20:00,12:30:00,2023-06-04
+Enzo,43,Almoço,Regular,12:20:00,12:30:00,2023-06-04
+Laura,44,Almoço,Regular,12:20:00,12:30:00,2023-06-04
+Luiza,45,Almoço,Regular,12:30:00,12:40:00,2023-06-04
+Valentina,46,Almoço,Regular,12:30:00,12:40:00,2023-06-04
+Giovanna,47,Almoço,Regular,12:30:00,12:40:00,2023-06-04
+Maria Eduarda,48,Almoço,Regular,12:30:00,12:40:00,2023-06-04
+Helena,49,Almoço,Regular,12:30:00,12:40:00,2023-06-04
+Beatriz,50,Almoço,Regular,12:40:00,12:50:00,2023-06-04
+Maria Luiza,51,Almoço,Regular,12:40:00,12:50:00,2023-06-04
+Lara,52,Almoço,Regular,12:40:00,12:50:00,2023-06-04
+Daniel,53,Almoço,Regular,12:40:00,12:50:00,2023-06-04
+Vitor,54,Almoço,Regular,12:40:00,12:50:00,2023-06-04
+Leonardo,55,Almoço,Regular,12:50:00,13:00:00,2023-06-04
+Henrique,56,Almoço,Regular,12:50:00,13:00:00,2023-06-04
+Theo,57,Almoço,Regular,12:50:00,13:00:00,2023-06-04
+Murilo,58,Almoço,Regular,12:50:00,13:00:00,2023-06-04
+Heloísa,59,Almoço,Regular,12:50:00,13:00:00,2023-06-04
+Isadora,60,Almoço,Regular,13:00:00,13:10:00,2023-06-04
+Lívia,61,Almoço,Regular,13:00:00,13:10:00,2023-06-04
+Maria Clara,62,Almoço,Regular,13:00:00,13:10:00,2023-06-04
+Ana Clara,63,Almoço,Regular,13:00:00,13:10:00,2023-06-04
+Laurinne,64,Almoço,Regular,13:10:00,13:20:00,2023-06-04
+Victor,65,Almoço,Regular,13:10:00,13:20:00,2023-06-04
+Geraldo,66,Almoço,Regular,13:10:00,13:20:00,2023-06-04
+Luis ,67,Almoço,Regular,13:10:00,13:20:00,2023-06-04
+Amilton,68,Almoço,Regular,13:20:00,13:30:00,2023-06-04
+Deliane,69,Almoço,Regular,13:20:00,13:30:00,2023-06-04
+Vicente,70,Almoço,Regular,13:20:00,13:30:00,2023-06-04
+Roberta,71,Almoço,Regular,13:30:00,13:40:00,2023-06-04
+Wenderson,72,Almoço,Regular,13:30:00,13:40:00,2023-06-04
+Higor,73,Almoço,Regular,13:40:00,13:50:00,2023-06-04
+Quezia,74,Almoço,Regular,13:40:00,13:50:00,2023-06-04
+Ronaldo,75,Almoço,Regular,13:40:00,13:50:00,2023-06-04
+Miguel,1,Almoço,Bolsista,14:00:00,14:10:00,2023-06-04
+Arthur,2,Almoço,Bolsista,14:00:00,14:10:00,2023-06-04
+Gael,3,Almoço,Bolsista,14:00:00,14:10:00,2023-06-04
+Théo,4,Almoço,Bolsista,14:00:00,14:10:00,2023-06-04
+Heitor,5,Almoço,Bolsista,14:10:00,14:20:00,2023-06-04
+Ravi,6,Almoço,Bolsista,14:10:00,14:20:00,2023-06-04
+Davi,7,Almoço,Bolsista,14:10:00,14:20:00,2023-06-04
+Bernardo,8,Almoço,Bolsista,14:10:00,14:20:00,2023-06-04
+Noah,9,Almoço,Bolsista,14:20:00,14:30:00,2023-06-04
+Gabriel,10,Almoço,Bolsista,14:20:00,14:30:00,2023-06-04
+Helena,11,Almoço,Bolsista,14:20:00,14:30:00,2023-06-04
+Alice,12,Almoço,Bolsista,14:20:00,14:30:00,2023-06-04
+Laura,13,Almoço,Bolsista,14:30:00,14:40:00,2023-06-04
+Maria Alice,14,Almoço,Bolsista,14:30:00,14:40:00,2023-06-04
+Sophia,15,Almoço,Bolsista,14:30:00,14:40:00,2023-06-04
+Manuela,16,Almoço,Bolsista,14:30:00,14:40:00,2023-06-04
+Maitê,17,Almoço,Bolsista,14:40:00,14:50:00,2023-06-04
+Liz,18,Almoço,Bolsista,14:40:00,14:50:00,2023-06-04
+Cecília,19,Almoço,Bolsista,14:40:00,14:50:00,2023-06-04
+Isabella,20,Almoço,Bolsista,14:40:00,14:50:00,2023-06-04
+William,21,Almoço,Bolsista,14:50:00,15:00:00,2023-06-04
+Jorge,22,Almoço,Bolsista,14:50:00,15:00:00,2023-06-04
+Daniel,23,Almoço,Bolsista,14:50:00,15:00:00,2023-06-04
+Omar,24,Almoço,Bolsista,14:50:00,15:00:00,2023-06-04
+Artur,25,Almoço,Bolsista,14:50:00,15:00:00,2023-06-04
+Bruno,1,Janta,Regular,17:00:00,17:10:00,2023-06-04
+Carlos,2,Janta,Regular,17:00:00,17:10:00,2023-06-04
+Julia,3,Janta,Regular,17:00:00,17:10:00,2023-06-04
+Pedro,4,Janta,Regular,17:00:00,17:10:00,2023-06-04
+Maria Antonia,5,Janta,Regular,17:10:00,17:20:00,2023-06-04
+Marcos Vinicius,6,Janta,Regular,17:10:00,17:20:00,2023-06-04
+João Vitor,7,Janta,Regular,17:10:00,17:20:00,2023-06-04
+Lorena,8,Janta,Regular,17:20:00,17:30:00,2023-06-04
+Victoria,9,Janta,Regular,17:20:00,17:30:00,2023-06-04
+Sara,10,Janta,Regular,17:20:00,17:30:00,2023-06-04
+Claudio,11,Janta,Regular,17:30:00,17:40:00,2023-06-04
+Vitor,12,Janta,Regular,17:30:00,17:40:00,2023-06-04
+Paulo,13,Janta,Regular,17:30:00,17:40:00,2023-06-04
+Itana,14,Janta,Regular,17:40:00,17:50:00,2023-06-04
+Davi,15,Janta,Regular,17:50:00,18:00:00,2023-06-04
+Arthur,16,Janta,Regular,17:50:00,18:00:00,2023-06-04
+Pedro,17,Janta,Regular,17:50:00,18:00:00,2023-06-04
+Gabriel,18,Janta,Regular,17:50:00,18:00:00,2023-06-04
+Alice,19,Janta,Regular,18:00:00,18:10:00,2023-06-04
+Julia,20,Janta,Regular,18:00:00,18:10:00,2023-06-04
+Isabella,21,Janta,Regular,18:00:00,18:10:00,2023-06-04
+Miguel,22,Janta,Regular,18:00:00,18:10:00,2023-06-04
+Sophia,23,Janta,Regular,18:10:00,18:20:00,2023-06-04
+Gustavo,24,Janta,Regular,18:10:00,18:20:00,2023-06-04
+Felipe,25,Janta,Regular,18:10:00,18:20:00,2023-06-04
+Samuel,26,Janta,Regular,18:10:00,18:20:00,2023-06-04
+João Pedro,27,Janta,Regular,18:20:00,18:30:00,2023-06-04
+Yasmin,28,Janta,Regular,18:20:00,18:30:00,2023-06-04
+Isabelly,29,Janta,Regular,18:20:00,18:30:00,2023-06-04
+Sarah,30,Janta,Regular,18:20:00,18:30:00,2023-06-04
+Caio,31,Janta,Regular,18:30:00,18:40:00,2023-06-04
+Vinicius,32,Janta,Regular,18:30:00,18:40:00,2023-06-04
+Luiza,33,Janta,Regular,18:30:00,18:40:00,2023-06-04
+Valentina,34,Janta,Regular,18:30:00,18:40:00,2023-06-04
+Giovanna,35,Janta,Regular,18:40:00,18:50:00,2023-06-04
+Cauã,36,Janta,Regular,18:40:00,18:50:00,2023-06-04
+Isaac,37,Janta,Regular,18:40:00,18:50:00,2023-06-04
+Bernardo,38,Janta,Regular,18:40:00,18:50:00,2023-06-04
+Lucas,39,Janta,Regular,18:50:00,19:00:00,2023-06-04
+Matheus,40,Janta,Regular,18:50:00,19:00:00,2023-06-04
+Rafael,41,Janta,Regular,18:50:00,19:00:00,2023-06-04
+Heitor,42,Janta,Regular,18:50:00,19:00:00,2023-06-04
+Enzo,43,Janta,Regular,19:00:00,19:10:00,2023-06-04
+Laura,44,Janta,Regular,19:00:00,19:10:00,2023-06-04
+Luiza,45,Janta,Regular,19:00:00,19:10:00,2023-06-04
+Valentina,46,Janta,Regular,19:00:00,19:10:00,2023-06-04
+Giovanna,47,Janta,Regular,19:10:00,19:20:00,2023-06-04
+Maria Eduarda,48,Janta,Regular,19:10:00,19:20:00,2023-06-04
+Helena,49,Janta,Regular,19:10:00,19:20:00,2023-06-04
+Beatriz,50,Janta,Regular,19:20:00,19:30:00,2023-06-04
+Maria Luiza,51,Janta,Regular,19:20:00,19:30:00,2023-06-04
+Lara,52,Janta,Regular,19:20:00,19:30:00,2023-06-04
+Daniel,53,Janta,Regular,19:20:00,19:30:00,2023-06-04
+Vitor,54,Janta,Regular,19:30:00,19:40:00,2023-06-04
+Leonardo,55,Janta,Regular,19:30:00,19:40:00,2023-06-04
+Henrique,56,Janta,Regular,19:30:00,19:40:00,2023-06-04
+Theo,57,Janta,Regular,19:30:00,19:40:00,2023-06-04
+Murilo,58,Janta,Regular,19:40:00,19:50:00,2023-06-04
+Heloísa,59,Janta,Regular,19:40:00,19:50:00,2023-06-04
+Isadora,60,Janta,Regular,19:40:00,19:50:00,2023-06-04
+Lívia,61,Janta,Regular,19:40:00,19:50:00,2023-06-04
+Maria Clara,62,Janta,Regular,19:50:00,20:00:00,2023-06-04
+Ana Clara,63,Janta,Regular,19:50:00,20:00:00,2023-06-04
+Laurinne,64,Janta,Regular,19:50:00,20:00:00,2023-06-04
+Victor,65,Janta,Regular,19:50:00,20:00:00,2023-06-04
+Geraldo,66,Janta,Regular,20:00:00,20:10:00,2023-06-04
+Luis ,67,Janta,Regular,20:00:00,20:10:00,2023-06-04
+Amilton,68,Janta,Regular,20:00:00,20:10:00,2023-06-04
+Deliane,69,Janta,Regular,20:00:00,20:10:00,2023-06-04
+Vicente,70,Janta,Regular,20:10:00,20:20:00,2023-06-04
+Roberta,71,Janta,Regular,20:10:00,20:20:00,2023-06-04
+Wenderson,72,Janta,Regular,20:10:00,20:20:00,2023-06-04
+Higor,73,Janta,Regular,20:20:00,20:30:00,2023-06-04
+Quezia,74,Janta,Regular,20:20:00,20:30:00,2023-06-04
+Ronaldo,75,Janta,Regular,20:20:00,20:30:00,2023-06-04
+Ricardo,76,Janta,Regular,20:30:00,20:40:00,2023-06-04
+Miguel,1,Janta,Bolsista,17:00:00,17:10:00,2023-06-04
+Arthur,2,Janta,Bolsista,17:00:00,17:10:00,2023-06-04
+Gael,3,Janta,Bolsista,17:00:00,17:10:00,2023-06-04
+Théo,4,Janta,Bolsista,17:00:00,17:10:00,2023-06-04
+Heitor,5,Janta,Bolsista,17:10:00,17:20:00,2023-06-04
+Ravi,6,Janta,Bolsista,17:10:00,17:20:00,2023-06-04
+Davi,7,Janta,Bolsista,17:10:00,17:20:00,2023-06-04
+Bernardo,8,Janta,Bolsista,17:20:00,17:30:00,2023-06-04
+Noah,9,Janta,Bolsista,17:20:00,17:30:00,2023-06-04
+Gabriel,10,Janta,Bolsista,17:20:00,17:30:00,2023-06-04
+Helena,11,Janta,Bolsista,17:30:00,17:40:00,2023-06-04
+Alice,12,Janta,Bolsista,17:30:00,17:40:00,2023-06-04
+Laura,13,Janta,Bolsista,17:30:00,17:40:00,2023-06-04
+Maria Alice,14,Janta,Bolsista,17:40:00,17:50:00,2023-06-04
+Sophia,15,Janta,Bolsista,17:50:00,18:00:00,2023-06-04
+Manuela,16,Janta,Bolsista,17:50:00,18:00:00,2023-06-04
+Maitê,17,Janta,Bolsista,17:50:00,18:00:00,2023-06-04
+Liz,18,Janta,Bolsista,17:50:00,18:00:00,2023-06-04
+Cecília,19,Janta,Bolsista,18:00:00,18:10:00,2023-06-04
+Isabella,20,Janta,Bolsista,18:00:00,18:10:00,2023-06-04
+William,21,Janta,Bolsista,18:00:00,18:10:00,2023-06-04
+Jorge,22,Janta,Bolsista,18:00:00,18:10:00,2023-06-04
+Daniel,23,Janta,Bolsista,18:10:00,18:20:00,2023-06-04
+Omar,24,Janta,Bolsista,18:10:00,18:20:00,2023-06-04
+Pedro,25,Janta,Bolsista,18:10:00,18:20:00,2023-06-04

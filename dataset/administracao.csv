@@ -1,0 +1,11 @@
+tipo_refeicao,lugares_total,responsavel,horario
+Almoço,50,Maria,2023-05-30 12:00:00.000
+Janta,50,Alberto,2023-05-30 19:00:00.001
+Almoço,50,Gustavo,2023-06-01 12:00:00.002
+Janta,50,Laura,2023-06-01 19:00:00.003
+Almoço,50,Maria,2023-06-02 12:00:00.000
+Janta,50,Alberto,2023-06-02 19:00:00.001
+Almoço,50,Gustavo,2023-06-03 12:00:00.002
+Janta,50,Laura,2023-06-03 19:00:00.003
+Almoço,50,Gustavo,2023-06-04 12:00:00.002
+Janta,50,Laura,2023-06-04 19:00:00.003
