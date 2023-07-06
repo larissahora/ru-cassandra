@@ -1,0 +1,78 @@
+CREATE KEYSPACE restaurante_universitario WITH replication = {'class': 'NetworkTopologyStrategy', 'us-east1': '3'}  AND durable_writes = true;
+
+
+CREATE TABLE restaurante_universitario.administracao (
+    horario timestamp PRIMARY KEY,
+    lugares_total int,
+    responsavel text,
+    tipo_refeicao text
+);
+
+
+CREATE TABLE restaurante_universitario.bolsista (
+    matricula text PRIMARY KEY,
+    nome text
+);
+
+
+CREATE TABLE restaurante_universitario.caixa (
+    numeracao int,
+    id int,
+    disponivel boolean,
+    horario timestamp,
+    responsavel text,
+    PRIMARY KEY (numeracao, id)
+);
+
+
+CREATE TABLE restaurante_universitario.fila (
+    tipo_estudante text,
+    data date,
+    tipo_refeicao text,
+    usuario text,
+    horario_bandeja time,
+    horario_registro time,
+    posicao int,
+    PRIMARY KEY (tipo_estudante, data, tipo_refeicao, usuario)
+);
+
+
+CREATE MATERIALIZED VIEW restaurante_universitario.administracao_by_responsavel
+AS SELECT responsavel, horario, tipo_refeicao
+FROM restaurante_universitario.administracao WHERE horario IS NOT NULL AND responsavel IS NOT NULL
+PRIMARY KEY (responsavel, horario);
+
+
+CREATE INDEX horario_registro_fila ON restaurante_universitario.fila (horario_registro);
+
+
+BEGIN BATCH
+
+
+UPDATE fila
+SET posicao = 7
+WHERE tipo_estudante = 'Bolsista' AND data='2023-05-30' AND tipo_refeicao='Almoço' AND usuario = 'Laura';
+
+
+UPDATE fila
+SET posicao = 6
+WHERE tipo_estudante = 'Bolsista' AND data='2023-05-30' AND tipo_refeicao='Almoço' AND usuario = 'Laura';
+
+
+APPLY BATCH;
+
+
+BEGIN BATCH
+
+
+UPDATE fila
+SET posicao = 7
+WHERE tipo_estudante = 'Bolsista' AND data='2023-05-30' AND tipo_refeicao='Almoço' AND usuario = 'Laura';
+
+
+UPDATE fila
+SET posicao = 6
+WHERE tipo_estudante = 'Bolsista' AND data='2023-05-30' AND tipo_refeicao='Almoço' AND usuario = 'Murilo';
+
+
+APPLY BATCH;
