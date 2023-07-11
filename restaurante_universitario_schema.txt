@@ -1,3 +1,6 @@
+﻿//criando o keyspace e tabelas
+
+
 CREATE KEYSPACE restaurante_universitario WITH replication = {'class': 'NetworkTopologyStrategy', 'us-east1': '3'}  AND durable_writes = true;
 
 
@@ -37,6 +40,24 @@ CREATE TABLE restaurante_universitario.fila (
 );
 
 
+// copiando os dados do csv para as tabelas
+
+
+COPY fila (usuario, posicao, tipo_refeicao, tipo_estudante, horario_registro, horario_bandeja, data) FROM '/path/to/dataset/fila.csv' WITH DELIMITER=',' AND HEADER=TRUE;
+
+
+COPY caixa (id, numeracao, responsavel, disponivel, horario) FROM '/path/to/dataset/caixa.csv' WITH DELIMITER=',' AND HEADER=TRUE;
+
+
+COPY bolsista (nome, matricula) FROM '/path/to/bolsista.csv' WITH DELIMITER=',' AND HEADER=TRUE;
+
+
+COPY administracao (tipo_refeicao, lugares_total, responsavel, horario) FROM '/path/to/administracao.csv' WITH DELIMITER=',' AND HEADER=TRUE;
+
+
+//criando view e index
+
+
 CREATE MATERIALIZED VIEW restaurante_universitario.administracao_by_responsavel
 AS SELECT responsavel, horario, tipo_refeicao
 FROM restaurante_universitario.administracao WHERE horario IS NOT NULL AND responsavel IS NOT NULL
@@ -44,6 +65,15 @@ PRIMARY KEY (responsavel, horario);
 
 
 CREATE INDEX horario_registro_fila ON restaurante_universitario.fila (horario_registro);
+
+
+
+
+
+
+// criando transactions
+
+
 
 
 BEGIN BATCH
@@ -76,3 +106,34 @@ WHERE tipo_estudante = 'Bolsista' AND data='2023-05-30' AND tipo_refeicao='Almo�
 
 
 APPLY BATCH;
+
+
+// controle de usuario
+
+
+ALTER USER cassandra WITH PASSWORD 'password123';
+
+
+CREATE ROLE bruno WITH PASSWORD = 'labbd_bruno' AND LOGIN = true;
+
+
+GRANT MODIFY ON KEYSPACE restaurante_universitário TO bruno;
+
+
+// criando funcoes
+
+
+CREATE FUNCTION verificar_tamanho_matricula(matricula text) 
+CALLED ON NULL INPUT
+RETURNS boolean
+LANGUAGE java
+AS '
+    if (matricula != null && matricula.length() == 9) {
+        return true;
+    } else {
+        return false;
+    }
+';
+
+
+SELECT nome, verificar_tamanho_matricula(matricula) AS matricula_valida FROM bolsista;
